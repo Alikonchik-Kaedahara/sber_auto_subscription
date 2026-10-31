@@ -31,7 +31,7 @@ def prepare(df):
 
     df['visit_number'] = pd.to_numeric(df['visit_number'])
     df['visit_hour'] = pd.to_datetime(df['visit_time'], format='%H:%M:%S').dt.hour
-    df['visit_weekday'] = pd.to_datetime(df['visit_date']).dt.weekday
+    df['visit_weekday'] = pd.to_datetime(df['visit_date']).dt.day_of_week
 
     # разрешение экрана в виде строки '360x720' делим на ширину и высоту
     res = df['device_screen_resolution'].astype(str).str.split('x', expand=True).reindex(columns=[0, 1])

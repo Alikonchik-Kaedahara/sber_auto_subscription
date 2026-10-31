@@ -6,7 +6,7 @@ import pandas as pd
 from sklearn.compose import ColumnTransformer
 from sklearn.ensemble import HistGradientBoostingClassifier
 from sklearn.metrics import f1_score, roc_auc_score
-from sklearn.model_selection import GroupShuffleSplit
+from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import FunctionTransformer, OrdinalEncoder
 
@@ -34,9 +34,9 @@ def prepare(df):
     df['visit_weekday'] = pd.to_datetime(df['visit_date']).dt.day_of_week
 
     # the resolution comes as a string like '360x720', split it into width and height
-    res = df['device_screen_resolution'].astype(str).str.split('x', expand=True).reindex(columns=[0, 1])
-    df['screen_width'] = pd.to_numeric(res[0], errors='coerce')
-    df['screen_height'] = pd.to_numeric(res[1], errors='coerce')
+    res = df['device_screen_resolution'].astype(str).str.split('x')
+    df['screen_width'] = pd.to_numeric(res.str[0], errors='coerce')
+    df['screen_height'] = pd.to_numeric(res.str[1], errors='coerce')
     bad = ((df['screen_width'] < 100) | (df['screen_height'] < 100)
            | (df['screen_width'] > 8000) | (df['screen_height'] > 8000))
     df.loc[bad, ['screen_width', 'screen_height']] = np.nan
@@ -50,9 +50,11 @@ def make_pipeline():
         ('cat', OrdinalEncoder(min_frequency=100, max_categories=250,
                                handle_unknown='use_encoded_value', unknown_value=-1), CAT_FEATURES),
         ('num', 'passthrough', NUM_FEATURES),
-    ], verbose_feature_names_out=False).set_output(transform='pandas')
+    ])
 
-    classifier = HistGradientBoostingClassifier(categorical_features=CAT_FEATURES, early_stopping=False,
+    # after the encoder the categorical columns go first
+    cat_idx = list(range(len(CAT_FEATURES)))
+    classifier = HistGradientBoostingClassifier(categorical_features=cat_idx, early_stopping=False,
                                                 random_state=42, **PARAMS)
 
     return Pipeline([
@@ -72,15 +74,16 @@ def main():
     y = df['target'].values
     print('visits:', len(df), 'conversion:', round(y.mean(), 4))
 
-    # visits of one client go only to one of the sets
-    train_idx, test_idx = next(GroupShuffleSplit(n_splits=1, test_size=0.2, random_state=42)
-                               .split(X, y, groups=df['client_id']))
+    # split by clients, so visits of one person are only in train or only in test
+    train_clients, test_clients = train_test_split(df['client_id'].unique(), test_size=0.2, random_state=42)
+    train = df['client_id'].isin(train_clients).values
+    test = df['client_id'].isin(test_clients).values
 
     pipe = make_pipeline()
-    pipe.fit(X.iloc[train_idx], y[train_idx])
-    proba = pipe.predict_proba(X.iloc[test_idx])[:, 1]
-    roc_auc = roc_auc_score(y[test_idx], proba)
-    f1 = f1_score(y[test_idx], (proba >= THRESHOLD).astype(int))
+    pipe.fit(X[train], y[train])
+    proba = pipe.predict_proba(X[test])[:, 1]
+    roc_auc = roc_auc_score(y[test], proba)
+    f1 = f1_score(y[test], (proba >= THRESHOLD).astype(int))
     print(f'test roc_auc: {roc_auc:.4f}, f1: {f1:.4f}')
 
     # the final model is trained on all the data
@@ -101,7 +104,7 @@ def main():
                 'roc_auc': round(roc_auc, 4),
                 'threshold': THRESHOLD,
             }
-        }, file, recurse=True)
+        }, file)
     print('model saved to', model_filename)
 
 

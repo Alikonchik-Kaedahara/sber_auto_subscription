@@ -1,41 +1,51 @@
-# СберАвтоподписка: предсказание целевого действия
+# SberAutoSubscription: predicting the target action
 
-Финальная работа по курсу ML Engineer (Skillbox). Модель по атрибутам визита на сайт (utm_*, device_*, geo_*,
-дата, время и номер визита) предсказывает, совершит ли пользователь целевое действие: оставит заявку,
-закажет звонок и т.д. Ответ 1, если совершит, и 0, если нет.
+Final project of the ML Engineer course. The model takes the attributes of a visit to the website (utm_*, device_*,
+geo_*, date, time and visit number) and predicts whether the user will do a target action: leave a request,
+ask for a call and so on. The answer is 1 if they will and 0 if they won't.
 
-## Файлы
+## Files
 
-- `01_EDA.ipynb` разведочный анализ данных, там же строится `data/target.csv`
-- `02_model.ipynb` сравнение моделей, подбор параметров, важность признаков
-- `pipeline.py` обучение итоговой модели, сохраняет ее в `model/sber_auto_pipe.pkl`
-- `main.py` сервис на FastAPI
-- `check_api.py` проверка сервиса и времени ответа
-- `requirements.txt` библиотеки
+- `01_EDA.ipynb` exploratory data analysis, it also builds `data/target.csv`
+- `02_model.ipynb` model comparison, parameter search, feature importance
+- `pipeline.py` trains the final model and saves it to `model/sber_auto_pipe.pkl`
+- `main.py` FastAPI service
+- `check_api.py` checks the service and the response time
+- `data_sample/ga_sessions_sample.csv` 1000 visits in the input format
+- `requirements.txt` libraries
 
-Данные (`ga_sessions.csv`, `ga_hits.csv`) в репозиторий не кладу, они весят несколько гигабайт. Их нужно
-скачать с Google Drive проекта в папку `data/`. Готовая модель уже лежит в `model/`, поэтому для запуска
-сервиса данные не нужны.
+## Data
 
-## Результат
+Google Analytics data of the SberAutoSubscription (СберАвтоподписка) website from May to December 2021:
+1.86 million visits (`ga_sessions.csv`) and 15.7 million events inside them (`ga_hits.csv`, about 4 GB).
+The data was provided for an educational project, so the full dataset is not published here.
 
-| Модель | ROC-AUC на тесте |
+`data_sample/` has 1000 random visits from `ga_sessions.csv` to show the input format and to try the service.
+The session and client IDs in it are replaced with made-up ones (`sample_0001`, `client_0001`).
+
+The trained model is already in `model/`, so the full data is not needed to run the service. To rerun the
+notebooks or retrain the model, put `ga_sessions.csv` and `ga_hits.csv` into `data/`.
+
+## Results
+
+| Model | ROC-AUC on test |
 |---|---|
-| Бейзлайн: конверсия по utm_source | 0.612 |
-| Логистическая регрессия | 0.675 |
-| Градиентный бустинг (HistGradientBoostingClassifier) | 0.696 |
+| Baseline: conversion by utm_source | 0.612 |
+| Logistic regression | 0.675 |
+| Gradient boosting (HistGradientBoostingClassifier) | 0.696 |
 
-Сравнение моделей в `02_model.ipynb`. Тест там это 20% клиентов, которых не было в обучении (делил по client_id,
-чтобы визиты одного человека не попадали в обе выборки). В `pipeline.py` модель учится на 80% клиентов, там
-ROC-AUC на отложенных клиентах 0.702, после этого итоговая модель обучается на всех данных.
+The model comparison is in `02_model.ipynb`. The test set there is 20% of clients who were not in the training
+data (I split by client_id, so visits of one person don't end up in both sets). In `pipeline.py` the model is
+trained on 80% of clients and gets ROC-AUC 0.702 on the held-out clients, then the final model is trained on all
+the data.
 
-Больше всего на предсказание влияют рекламная кампания и источник трафика (utm_campaign, utm_source,
-utm_keyword, utm_adcontent), город и номер визита. Сервис отдает 1, если вероятность целевого действия от 0.06:
-такие визиты конвертируются почти в 3 раза чаще среднего.
+The ad campaign and traffic source (utm_campaign, utm_source, utm_keyword, utm_adcontent), the city and the visit
+number affect the prediction the most. The service returns 1 if the probability of a target action is 0.06 or
+higher: such visits convert almost 3 times more often than average.
 
-## Запуск сервиса
+## Running the service
 
-Нужен Python 3.12 или новее.
+Python 3.12 or newer is needed.
 
 ```bash
 python3 -m venv venv
@@ -44,64 +54,61 @@ pip install -r requirements.txt
 uvicorn main:app
 ```
 
-Сервис поднимется на http://127.0.0.1:8000, документация и форма для проверки на http://127.0.0.1:8000/docs.
+The service starts on http://127.0.0.1:8000, the docs and a form to try it are at http://127.0.0.1:8000/docs.
 
-Методы:
+Endpoints:
 
-- `GET /status` проверка, что сервис работает
-- `GET /version` информация о модели (дата обучения, ROC-AUC, порог)
-- `POST /predict` один визит, ответ 0 или 1
-- `POST /predict_batch` список визитов, ответ на каждый
+- `GET /status` check that the service is running
+- `GET /version` model info (training date, ROC-AUC, threshold)
+- `POST /predict` one visit, the answer is 0 or 1
+- `POST /predict_batch` a list of visits, an answer for each
 
-Пример запроса (поля как в ga_sessions, пустые можно не передавать):
+Request example (the fields are the same as in ga_sessions, empty ones can be skipped):
 
 ```bash
 curl -X POST http://127.0.0.1:8000/predict -H "Content-Type: application/json" -d '{
-  "session_id": "9055434745589932991.1637753792.1637753792",
-  "client_id": "2108382700.1637753791",
-  "visit_date": "2021-11-24",
-  "visit_time": "14:36:32",
-  "visit_number": 1,
-  "utm_source": "ZpYIoDJMcFzVoPFsHGJL",
-  "utm_medium": "banner",
-  "utm_campaign": "LEoPHuyFvzoNfnzGgfcd",
-  "utm_adcontent": "vCIpmpaGBnIQhyYNkXqp",
-  "utm_keyword": "puhZPIYqKXeFPaUviSjo",
+  "session_id": "sample_0001",
+  "visit_date": "2021-05-19",
+  "visit_time": "15:00:00",
+  "visit_number": 2,
+  "utm_source": "fDLlAcSmythWSCVMvqvL",
+  "utm_medium": "(none)",
+  "utm_campaign": "LTuZkdKfxRGVceoWkVyg",
+  "utm_adcontent": "JNHcPlZPxEMWDnRiyoBf",
   "device_category": "mobile",
-  "device_os": "Android",
-  "device_brand": "Huawei",
-  "device_screen_resolution": "360x720",
+  "device_brand": "Apple",
+  "device_screen_resolution": "414x896",
   "device_browser": "Chrome",
   "geo_country": "Russia",
-  "geo_city": "Zlatoust"
+  "geo_city": "Moscow"
 }'
 ```
 
-Ответ:
+Response:
 
 ```json
-{"session_id": "9055434745589932991.1637753792.1637753792", "target": 0, "probability": 0.0146}
+{"session_id": "sample_0001", "target": 0, "probability": 0.0395}
 ```
 
-Проверка скорости (сервис должен быть запущен, нужен `data/ga_sessions.csv`):
+Speed check (the service has to be running, it uses the visits from `data_sample/`):
 
 ```bash
 python check_api.py
 ```
 
-У меня получилось: 200 запросов по одному визиту, среднее время ответа 18.5 мс, максимум 31 мс. Пакет из
-200 визитов одним запросом обрабатывается за 21 мс. Ограничение в 3 секунды выполняется с большим запасом.
+My result: 1000 requests with one visit each, mean response time 18.4 ms, max 38 ms. A batch of 1000 visits in
+one request takes 33 ms. The 3 second limit is met with a big margin.
 
-Сервис не хранит состояния, модель загружается один раз при старте. Поэтому его можно запускать в несколько
-процессов (`uvicorn main:app --workers 4`) или на нескольких машинах за балансировщиком. Если визитов много,
-их лучше отправлять пачками в `/predict_batch`.
+The service doesn't keep any state, the model is loaded once at start. So it can run in several processes
+(`uvicorn main:app --workers 4`) or on several machines behind a load balancer. If there are many visits, it's
+better to send them in batches to `/predict_batch`.
 
-## Переобучение модели
+## Retraining the model
 
 ```bash
 python pipeline.py
 ```
 
-Скрипт читает `data/ga_sessions.csv` и `data/target.csv`, проверяет качество на отложенных клиентах и
-обучает модель на всех данных. Занимает меньше минуты (у меня 43 секунды). Новые визиты приходят с другими рекламными кампаниями,
-поэтому модель стоит переобучать регулярно, например раз в месяц.
+The script reads `data/ga_sessions.csv` and `data/target.csv`, checks the quality on held-out clients and trains
+the model on all the data. It takes less than a minute (40 seconds on my laptop). New visits come from different ad
+campaigns, so the model should be retrained regularly, for example once a month.

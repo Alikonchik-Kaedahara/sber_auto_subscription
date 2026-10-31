@@ -12,6 +12,10 @@ visit number) and says if the user will do a target action (leave a request, ask
 - `check_api.py` - sends visits from the sample to the service and measures the time
 - `data_sample/ga_sessions_sample.csv` - 1000 visits to try the service
 
+GitHub is slow to show notebooks with plots, if they don't open here is the same in nbviewer:
+[01_EDA.ipynb](https://nbviewer.org/github/Alikonchik-Kaedahara/sber_auto_subscription/blob/main/01_EDA.ipynb),
+[02_model.ipynb](https://nbviewer.org/github/Alikonchik-Kaedahara/sber_auto_subscription/blob/main/02_model.ipynb)
+
 ## Data
 
 Google Analytics data of the SberAutoSubscription (СберАвтоподписка) website, May to December 2021:

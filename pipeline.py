@@ -91,6 +91,7 @@ def main():
     pipe.fit(X, y)
 
     model_filename = 'model/sber_auto_pipe.pkl'
+    # without recurse=True the model didn't load in main.py (prepare couldn't find np)
     with open(model_filename, 'wb') as file:
         dill.dump({
             'model': pipe,
@@ -104,7 +105,7 @@ def main():
                 'roc_auc': round(roc_auc, 4),
                 'threshold': THRESHOLD,
             }
-        }, file)
+        }, file, recurse=True)
     print('model saved to', model_filename)
 
 

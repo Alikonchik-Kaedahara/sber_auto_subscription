@@ -14,7 +14,7 @@ CAT_FEATURES = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_adcontent', 'ut
                 'device_category', 'device_os', 'device_brand', 'device_browser', 'geo_country', 'geo_city']
 NUM_FEATURES = ['visit_number', 'visit_hour', 'visit_weekday', 'screen_width', 'screen_height']
 
-# параметры бустинга и порог подобраны в 02_model.ipynb
+# boosting parameters and the threshold were chosen in 02_model.ipynb
 PARAMS = {'learning_rate': 0.1, 'max_iter': 300, 'max_leaf_nodes': 15, 'min_samples_leaf': 200, 'l2_regularization': 0.0}
 THRESHOLD = 0.06
 
@@ -23,7 +23,7 @@ def prepare(df):
     df = df.copy()
     df = df.replace('(not set)', np.nan)
 
-    # device_os часто пустой, но его можно восстановить по бренду
+    # device_os is often empty, but it can be restored from the brand
     df.loc[df['device_os'].isna() & (df['device_brand'] == 'Apple'), 'device_os'] = 'iOS'
     df.loc[df['device_os'].isna() & df['device_brand'].notna() & (df['device_brand'] != 'Apple')
            & df['device_category'].isin(['mobile', 'tablet']), 'device_os'] = 'Android'
@@ -33,7 +33,7 @@ def prepare(df):
     df['visit_hour'] = pd.to_datetime(df['visit_time'], format='%H:%M:%S').dt.hour
     df['visit_weekday'] = pd.to_datetime(df['visit_date']).dt.day_of_week
 
-    # разрешение экрана в виде строки '360x720' делим на ширину и высоту
+    # the resolution comes as a string like '360x720', split it into width and height
     res = df['device_screen_resolution'].astype(str).str.split('x', expand=True).reindex(columns=[0, 1])
     df['screen_width'] = pd.to_numeric(res[0], errors='coerce')
     df['screen_height'] = pd.to_numeric(res[1], errors='coerce')
@@ -44,8 +44,8 @@ def prepare(df):
 
 
 def make_pipeline():
-    # редкие значения (меньше 100 визитов) объединяются в одну категорию,
-    # новые значения, которых не было в обучении, модель считает пропуском
+    # rare values (fewer than 100 visits) are merged into one category,
+    # new values that weren't in the training data are treated as missing
     encoder = ColumnTransformer([
         ('cat', OrdinalEncoder(min_frequency=100, max_categories=250,
                                handle_unknown='use_encoded_value', unknown_value=-1), CAT_FEATURES),
@@ -72,7 +72,7 @@ def main():
     y = df['target'].values
     print('visits:', len(df), 'conversion:', round(y.mean(), 4))
 
-    # визиты одного клиента попадают только в одну из выборок
+    # visits of one client go only to one of the sets
     train_idx, test_idx = next(GroupShuffleSplit(n_splits=1, test_size=0.2, random_state=42)
                                .split(X, y, groups=df['client_id']))
 
@@ -83,7 +83,7 @@ def main():
     f1 = f1_score(y[test_idx], (proba >= THRESHOLD).astype(int))
     print(f'test roc_auc: {roc_auc:.4f}, f1: {f1:.4f}')
 
-    # финальную модель обучаем на всех данных
+    # the final model is trained on all the data
     pipe = make_pipeline()
     pipe.fit(X, y)
 

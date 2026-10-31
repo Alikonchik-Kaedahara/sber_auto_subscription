@@ -59,7 +59,7 @@ def predict(form: Form):
     return make_prediction(df)[0]
 
 
-# если визитов много, их лучше отправлять одним запросом: модель считает всю таблицу сразу
+# if there are many visits, it's better to send them in one request: the model scores the whole table at once
 @app.post('/predict_batch', response_model=list[Prediction])
 def predict_batch(forms: list[Form]):
     df = pd.DataFrame([form.model_dump() for form in forms])

@@ -10,18 +10,13 @@ from sklearn.model_selection import GroupShuffleSplit
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import FunctionTransformer, OrdinalEncoder
 
-# источники из соцсетей, список из методички
-SOCIAL = ['QxAxdyPLuQMEcrdZWdWb', 'MvfHsxITijuriZxsqZqt', 'ISrKoXQCxqqYvAZICvjs',
-          'IZEXUFLARCUMynmHNBGo', 'PlbkrSYoHuZBWfYjYnfw', 'gVRrcxiDQubJiljoTbGm']
-
 CAT_FEATURES = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_adcontent', 'utm_keyword',
                 'device_category', 'device_os', 'device_brand', 'device_browser', 'geo_country', 'geo_city']
-NUM_FEATURES = ['visit_number', 'visit_hour', 'visit_weekday', 'screen_width', 'screen_height',
-                'is_organic', 'is_social', 'is_moscow_spb']
+NUM_FEATURES = ['visit_number', 'visit_hour', 'visit_weekday', 'screen_width', 'screen_height']
 
 # параметры бустинга и порог подобраны в 02_model.ipynb
-PARAMS = {'learning_rate': 0.05, 'max_iter': 400, 'max_leaf_nodes': 63, 'min_samples_leaf': 500, 'l2_regularization': 1.0}
-THRESHOLD = 0.07
+PARAMS = {'learning_rate': 0.1, 'max_iter': 300, 'max_leaf_nodes': 15, 'min_samples_leaf': 200, 'l2_regularization': 0.0}
+THRESHOLD = 0.06
 
 
 def prepare(df):
@@ -45,10 +40,6 @@ def prepare(df):
     bad = ((df['screen_width'] < 100) | (df['screen_height'] < 100)
            | (df['screen_width'] > 8000) | (df['screen_height'] > 8000))
     df.loc[bad, ['screen_width', 'screen_height']] = np.nan
-
-    df['is_organic'] = df['utm_medium'].isin(['organic', 'referral', '(none)']).astype(int)
-    df['is_social'] = df['utm_source'].isin(SOCIAL).astype(int)
-    df['is_moscow_spb'] = df['geo_city'].isin(['Moscow', 'Saint Petersburg']).astype(int)
     return df[CAT_FEATURES + NUM_FEATURES]
 
 

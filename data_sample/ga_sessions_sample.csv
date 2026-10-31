@@ -1,0 +1,1001 @@
+session_id,client_id,visit_date,visit_time,visit_number,utm_source,utm_medium,utm_campaign,utm_adcontent,utm_keyword,device_category,device_os,device_brand,device_model,device_screen_resolution,device_browser,geo_country,geo_city
+sample_0001,client_0001,2021-05-19,15:00:00,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Chrome,Russia,Moscow
+sample_0002,client_0002,2021-05-23,13:00:00,12,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,384x811,Chrome,Russia,Moscow
+sample_0003,client_0003,2021-05-23,20:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1440x900,Chrome,Russia,Saint Petersburg
+sample_0004,client_0004,2021-05-24,06:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Russia,Saint Petersburg
+sample_0005,client_0005,2021-05-24,08:00:00,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x732,Chrome,Russia,Novosibirsk
+sample_0006,client_0006,2021-05-24,09:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1440x900,YaBrowser,Russia,Moscow
+sample_0007,client_0007,2021-05-24,09:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,360x800,Samsung Internet,Russia,Moscow
+sample_0008,client_0008,2021-05-24,09:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,428x926,Safari,Russia,Moscow
+sample_0009,client_0009,2021-05-24,10:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,OnePlus,,412x892,Chrome,Russia,(not set)
+sample_0010,client_0010,2021-05-24,10:00:00,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1536x864,Chrome,Russia,Ulan-Ude
+sample_0011,client_0011,2021-05-24,10:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,Moscow
+sample_0012,client_0012,2021-05-24,11:00:00,2,TTtiRKFZIaQpIWggfCoF,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari (in-app),Russia,Moscow
+sample_0013,client_0013,2021-05-24,11:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Russia,Yekaterinburg
+sample_0014,client_0014,2021-05-24,12:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x736,Safari,Russia,Moscow
+sample_0015,client_0015,2021-05-24,12:00:00,3,kjsLglQLzykiRbcDiGcD,organic,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,Moscow
+sample_0016,client_0016,2021-05-24,13:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,Moscow
+sample_0017,client_0017,2021-05-24,13:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0018,client_0018,2021-05-24,13:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Russia,Krasnodar
+sample_0019,client_0019,2021-05-24,14:00:00,2,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,2560x1440,Chrome,Russia,Moscow
+sample_0020,client_0020,2021-05-24,15:00:00,3,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,428x926,Safari,Russia,Moscow
+sample_0021,client_0021,2021-05-24,15:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x780,Chrome,Russia,Moscow
+sample_0022,client_0022,2021-05-24,15:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x869,Chrome,Russia,Saint Petersburg
+sample_0023,client_0023,2021-05-24,16:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,YaBrowser,Russia,Volgograd
+sample_0024,client_0024,2021-05-24,16:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x786,Chrome,Russia,Moscow
+sample_0025,client_0025,2021-05-24,17:00:00,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,360x760,Chrome,Russia,Omsk
+sample_0026,client_0026,2021-05-24,17:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,Saint Petersburg
+sample_0027,client_0027,2021-05-24,18:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,tablet,,Apple,,768x1024,Safari,Russia,Moscow
+sample_0028,client_0028,2021-05-24,20:00:00,2,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x748,Chrome,Russia,Moscow
+sample_0029,client_0029,2021-05-25,04:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Kazan
+sample_0030,client_0030,2021-05-25,05:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,ZTE,,360x780,YaBrowser,Russia,Moscow
+sample_0031,client_0031,2021-05-25,09:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x667,Safari,Russia,Moscow
+sample_0032,client_0032,2021-05-25,10:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Russia,Moscow
+sample_0033,client_0033,2021-05-25,10:00:00,2,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,Krasnodar
+sample_0034,client_0034,2021-05-25,12:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1440x900,Safari,Russia,Izhevsk
+sample_0035,client_0035,2021-05-25,13:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,Moscow
+sample_0036,client_0036,2021-05-25,18:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x892,Chrome,Russia,Moscow
+sample_0037,client_0037,2021-05-25,19:00:00,2,kjsLglQLzykiRbcDiGcD,organic,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,320x694,Chrome,Russia,Moscow
+sample_0038,client_0038,2021-05-26,07:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0039,client_0039,2021-05-26,08:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1366x768,YaBrowser,Russia,Kazan
+sample_0040,client_0040,2021-05-26,09:00:00,2,aXQzDWsJuGXeBXexNHjc,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,YaBrowser,Russia,Moscow
+sample_0041,client_0041,2021-05-26,15:00:00,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x846,Chrome,Russia,Tikhvin
+sample_0042,client_0042,2021-05-26,18:00:00,5,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,Mytishchi
+sample_0043,client_0043,2021-05-26,20:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,(not set)
+sample_0044,client_0044,2021-05-27,11:00:00,9,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x699,Chrome,Russia,Moscow
+sample_0045,client_0045,2021-05-27,18:00:00,6,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x873,Chrome,Russia,Moscow
+sample_0046,client_0046,2021-05-28,00:00:00,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,384x854,YaBrowser,Russia,Volgograd
+sample_0047,client_0047,2021-05-28,12:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Russia,Moscow
+sample_0048,client_0048,2021-05-28,13:00:00,4,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1600x900,Chrome,Russia,Kazan
+sample_0049,client_0049,2021-05-28,21:00:00,3,aXQzDWsJuGXeBXexNHjc,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,360x740,Samsung Internet,Russia,Vladimir
+sample_0050,client_0050,2021-05-29,00:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,,aYAcKhelKzYpXrRYknSP,,mobile,,Apple,,375x667,Safari,Russia,Moscow
+sample_0051,client_0051,2021-05-29,00:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,,aYAcKhelKzYpXrRYknSP,,mobile,,Samsung,,360x780,Chrome,Russia,Moscow
+sample_0052,client_0052,2021-05-29,01:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Chrome,Serbia,Belgrade
+sample_0053,client_0053,2021-05-29,01:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,TmLcOgercnkJQrPmRxsU,XKsYZiUFcdkUXQpoLKyS,,mobile,,Xiaomi,,393x873,Chrome,Russia,Grozny
+sample_0054,client_0054,2021-05-29,01:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,,aYAcKhelKzYpXrRYknSP,,mobile,,Xiaomi,,393x786,Chrome,Russia,Moscow
+sample_0055,client_0055,2021-05-29,09:00:00,3,aXQzDWsJuGXeBXexNHjc,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,360x800,Samsung Internet,Russia,Nizhny Novgorod
+sample_0056,client_0056,2021-05-29,15:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,OnePlus,,385x833,Chrome,Russia,Moscow
+sample_0057,client_0057,2021-05-29,18:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x667,Safari,Russia,Moscow
+sample_0058,client_0058,2021-05-29,21:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Moscow
+sample_0059,client_0059,2021-05-30,10:00:00,6,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x818,Chrome,Russia,Moscow
+sample_0060,client_0060,2021-05-30,13:00:00,3,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,390x844,Safari,Russia,Moscow
+sample_0061,client_0061,2021-05-30,15:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,384x854,Chrome,Russia,Moscow
+sample_0062,client_0062,2021-05-30,17:00:00,2,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,360x760,Chrome,Canada,(not set)
+sample_0063,client_0063,2021-05-30,17:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Opera,Russia,Moscow
+sample_0064,client_0064,2021-05-31,09:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,960x600,Opera,Russia,Moscow
+sample_0065,client_0065,2021-05-31,12:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Russia,Zheleznodorozhny
+sample_0066,client_0066,2021-05-31,15:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,HTC,,360x720,YaBrowser,Russia,Irkutsk
+sample_0067,client_0067,2021-05-31,15:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,iNaIAFVuZgYukekFQQbX,XKsYZiUFcdkUXQpoLKyS,,mobile,,Nokia,,360x760,Chrome,Russia,Moscow
+sample_0068,client_0068,2021-05-31,21:00:00,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Russia,Saint Petersburg
+sample_0069,client_0069,2021-06-01,09:00:00,12,kjsLglQLzykiRbcDiGcD,organic,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,360x760,Chrome,Russia,Verkhnyaya Pyshma
+sample_0070,client_0070,2021-06-01,14:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1093x615,Edge,Russia,Podolsk
+sample_0071,client_0071,2021-06-01,15:00:00,7,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Vivo,,360x780,Chrome,Russia,Moscow
+sample_0072,client_0072,2021-06-01,15:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0073,client_0073,2021-06-01,20:00:00,1,kjsLglQLzykiRbcDiGcD,organic,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1440x900,Safari,Russia,Moscow
+sample_0074,client_0074,2021-06-02,11:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1581x890,Edge,Russia,Moscow
+sample_0075,client_0075,2021-06-03,07:00:00,5,aXQzDWsJuGXeBXexNHjc,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,Novosibirsk
+sample_0076,client_0076,2021-06-04,07:00:00,5,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x846,Samsung Internet,Russia,Moscow
+sample_0077,client_0077,2021-06-04,09:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,360x760,Chrome,Russia,(not set)
+sample_0078,client_0078,2021-06-04,12:00:00,27,oZCzWSykfixnjMPDNjSU,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x667,Safari,Russia,Moscow
+sample_0079,client_0079,2021-06-04,14:00:00,6,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1536x864,YaBrowser,Russia,Tver
+sample_0080,client_0080,2021-06-05,01:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,424x918,Chrome,Russia,Moscow
+sample_0081,client_0081,2021-06-05,15:00:00,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Motorola,,360x840,Chrome,Russia,Moscow
+sample_0082,client_0082,2021-06-07,06:00:00,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Russia,Chelyabinsk
+sample_0083,client_0083,2021-06-07,10:00:00,16,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Russia,Moscow
+sample_0084,client_0084,2021-06-07,14:00:00,8,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,Saint Petersburg
+sample_0085,client_0085,2021-06-07,15:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x780,Chrome,Russia,Moscow
+sample_0086,client_0086,2021-06-07,15:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,JwYIveaHVpeeRZloQCfF,,,desktop,,,,1366x768,Opera,Netherlands,Amsterdam
+sample_0087,client_0087,2021-06-07,15:00:00,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1600x900,Chrome,Russia,Zhukovskiy
+sample_0088,client_0088,2021-06-09,00:00:00,4,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Xiaomi,,393x851,Chrome,Russia,(not set)
+sample_0089,client_0089,2021-06-09,19:00:00,15,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,428x926,Chrome,Russia,Saint Petersburg
+sample_0090,client_0090,2021-06-10,10:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,IRGUHqwEMepMjgCYBVRn,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x915,Samsung Internet,Russia,Moscow
+sample_0091,client_0091,2021-06-10,23:00:00,1,BHcvLfOaCWvWTykYqHVe,cpc,,,,desktop,,,,1366x768,Edge,Russia,Sertolovo
+sample_0092,client_0092,2021-06-12,14:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x846,Chrome,Russia,Kazan
+sample_0093,client_0093,2021-06-12,18:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Volgograd
+sample_0094,client_0094,2021-06-13,00:00:00,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Moscow
+sample_0095,client_0095,2021-06-13,03:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,vXsFkagGabkcWKlgLzSg,,,mobile,,Huawei,,393x699,Chrome,Russia,Moscow
+sample_0096,client_0096,2021-06-13,11:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Kazan
+sample_0097,client_0097,2021-06-14,00:00:00,13,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0098,client_0098,2021-06-14,15:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,320x568,Safari,Russia,Moscow
+sample_0099,client_0099,2021-06-14,17:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Samara
+sample_0100,client_0100,2021-06-14,23:00:00,1,aXQzDWsJuGXeBXexNHjc,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Croatia,(not set)
+sample_0101,client_0101,2021-06-15,05:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Vladivostok
+sample_0102,client_0102,2021-06-15,20:00:00,4,kjsLglQLzykiRbcDiGcD,cpc,,,,desktop,,,,820x1180,Safari,Russia,Moscow
+sample_0103,client_0103,2021-06-16,10:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x915,Chrome,Russia,Moscow
+sample_0104,client_0104,2021-06-16,22:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x667,Safari (in-app),Russia,Saransk
+sample_0105,client_0105,2021-06-17,16:00:00,1,PlbkrSYoHuZBWfYjYnfw,cpm,izpGVnqOrUbTVctFBiaU,,,mobile,,Apple,,375x667,Safari,Russia,Saint Petersburg
+sample_0106,client_0106,2021-06-17,18:00:00,2,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,Izhevsk
+sample_0107,client_0107,2021-06-18,01:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,320x568,Safari,Russia,(not set)
+sample_0108,client_0108,2021-06-18,05:00:00,1,QxAxdyPLuQMEcrdZWdWb,cpc,PXQWdUxeUoXfoKzTBGpY,,,mobile,,Xiaomi,,393x851,Android Webview,Russia,Moscow
+sample_0109,client_0109,2021-06-18,09:00:00,2,kjsLglQLzykiRbcDiGcD,organic,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1440x900,Chrome,Russia,Vologda
+sample_0110,client_0110,2021-06-18,15:00:00,1,PlbkrSYoHuZBWfYjYnfw,cpm,izpGVnqOrUbTVctFBiaU,,,desktop,,,,1280x1024,Firefox,Russia,Saint Petersburg
+sample_0111,client_0111,2021-06-18,16:00:00,7,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1536x864,YaBrowser,Russia,Moscow
+sample_0112,client_0112,2021-06-18,22:00:00,4,kjsLglQLzykiRbcDiGcD,organic,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,360x640,Chrome,Russia,Moscow
+sample_0113,client_0113,2021-06-19,11:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari (in-app),Russia,Saint Petersburg
+sample_0114,client_0114,2021-06-20,10:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,vXsFkagGabkcWKlgLzSg,,,mobile,,Apple,,375x812,Safari,Russia,(not set)
+sample_0115,client_0115,2021-06-20,18:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Saint Petersburg
+sample_0116,client_0116,2021-06-21,09:00:00,1,aXQzDWsJuGXeBXexNHjc,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1600x900,Firefox,Russia,Moscow
+sample_0117,client_0117,2021-06-21,15:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x892,Chrome,Russia,Saint Petersburg
+sample_0118,client_0118,2021-06-21,17:00:00,2,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Xiaomi,,393x873,Chrome,Russia,Saint Petersburg
+sample_0119,client_0119,2021-06-21,19:00:00,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0120,client_0120,2021-06-21,23:00:00,3,QxAxdyPLuQMEcrdZWdWb,cpc,PXQWdUxeUoXfoKzTBGpY,,,mobile,,Apple,,414x896,Safari (in-app),Russia,Ramenskoye
+sample_0121,client_0121,2021-06-22,13:00:00,1,QxAxdyPLuQMEcrdZWdWb,cpc,PXQWdUxeUoXfoKzTBGpY,,,mobile,,Xiaomi,,393x851,Android Webview,Russia,Saint Petersburg
+sample_0122,client_0122,2021-06-22,17:00:00,2,kjsLglQLzykiRbcDiGcD,organic,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1536x864,Chrome,Russia,Moscow
+sample_0123,client_0123,2021-06-23,17:00:00,1,BHcvLfOaCWvWTykYqHVe,cpc,,,,desktop,,,,1600x900,YaBrowser,Russia,Moscow
+sample_0124,client_0124,2021-06-24,12:00:00,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Podolsk
+sample_0125,client_0125,2021-06-24,17:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Moscow
+sample_0126,client_0126,2021-06-24,21:00:00,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Serbia,(not set)
+sample_0127,client_0127,2021-06-25,12:00:00,5,iNFgfQPqHPBuvGCYtrQE,cpc,aPqwsNrUDOqqlOPbgStP,,,mobile,,Samsung,,320x886,Chrome,Russia,Moscow
+sample_0128,client_0128,2021-06-25,19:00:00,1,BHcvLfOaCWvWTykYqHVe,cpc,,,,mobile,,Huawei,,360x760,YaBrowser,Russia,Noginsk
+sample_0129,client_0129,2021-06-25,20:00:00,1,MvfHsxITijuriZxsqZqt,cpv,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Samsung,,360x640,Chrome,Russia,Saint Petersburg
+sample_0130,client_0130,2021-06-25,23:00:00,3,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Xiaomi,,393x786,Chrome,Russia,Saint Petersburg
+sample_0131,client_0131,2021-06-26,20:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x915,Chrome,Russia,Pushkino
+sample_0132,client_0132,2021-06-27,01:00:00,3,kjsLglQLzykiRbcDiGcD,cpc,AqudXfUnmXWSDWVGYaXr,,,mobile,,Samsung,,360x760,Chrome,Russia,Moscow
+sample_0133,client_0133,2021-06-27,06:00:00,1,MvfHsxITijuriZxsqZqt,cpv,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Xiaomi,,343x724,Chrome,Russia,Moscow
+sample_0134,client_0134,2021-06-27,18:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0135,client_0135,2021-06-27,22:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1440x900,Chrome,Russia,Pushkino
+sample_0136,client_0136,2021-06-28,17:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0137,client_0137,2021-06-28,17:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,AqudXfUnmXWSDWVGYaXr,,,mobile,,Huawei,,360x720,Chrome,Russia,(not set)
+sample_0138,client_0138,2021-06-28,18:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,vXsFkagGabkcWKlgLzSg,,,mobile,,Apple,,375x812,Safari,Russia,Moscow
+sample_0139,client_0139,2021-06-28,21:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,834x1194,Safari,Russia,(not set)
+sample_0140,client_0140,2021-06-28,21:00:00,1,hTjLvqNxGggkGnxSCaTm,stories,QEejXfOCtOMFLZqIPApp,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari (in-app),Russia,Moscow
+sample_0141,client_0141,2021-06-28,22:00:00,1,hTjLvqNxGggkGnxSCaTm,stories,QEejXfOCtOMFLZqIPApp,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari (in-app),Russia,Moscow
+sample_0142,client_0142,2021-06-28,23:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,428x926,Safari (in-app),Russia,Krasnodar
+sample_0143,client_0143,2021-06-29,08:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Android Webview,Russia,Izhevsk
+sample_0144,client_0144,2021-06-29,08:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x667,Safari,Russia,Moscow
+sample_0145,client_0145,2021-06-29,08:00:00,1,hTjLvqNxGggkGnxSCaTm,stories,QEejXfOCtOMFLZqIPApp,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x667,Safari (in-app),Russia,Moscow
+sample_0146,client_0146,2021-06-29,12:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,zPJpddwzkFqLMSYgtDqy,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,Moscow
+sample_0147,client_0147,2021-06-29,12:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,zPJpddwzkFqLMSYgtDqy,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Tikhoretsk
+sample_0148,client_0148,2021-06-29,13:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,390x844,Safari (in-app),Russia,Saint Petersburg
+sample_0149,client_0149,2021-06-29,14:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x915,Chrome,Russia,Moscow
+sample_0150,client_0150,2021-06-30,20:00:00,2,BHcvLfOaCWvWTykYqHVe,cpc,,,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0151,client_0151,2021-07-01,11:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,RwJRitibjRveidvwKiLL,,,desktop,,,,2048x1152,Chrome,Russia,Tyumen
+sample_0152,client_0152,2021-07-02,20:00:00,4,BHcvLfOaCWvWTykYqHVe,cpc,,,,desktop,,,,1280x800,Opera,Russia,Moscow
+sample_0153,client_0153,2021-07-02,21:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,MXqmDyetMTICSSitTjWV,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Saint Petersburg
+sample_0154,client_0154,2021-07-03,10:00:00,16,kjsLglQLzykiRbcDiGcD,cpc,JwYIveaHVpeeRZloQCfF,,,mobile,,Apple,,375x812,Safari,Russia,Moscow
+sample_0155,client_0155,2021-07-03,13:00:00,2,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,375x812,Chrome,Russia,Moscow
+sample_0156,client_0156,2021-07-03,17:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,768x1024,Safari,Russia,Nizhny Novgorod
+sample_0157,client_0157,2021-07-04,11:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Russia,(not set)
+sample_0158,client_0158,2021-07-04,14:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,WiILFRDQbcHDHNvHzGpX,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Saint Petersburg
+sample_0159,client_0159,2021-07-05,01:00:00,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,428x926,Safari,Russia,Moscow
+sample_0160,client_0160,2021-07-05,01:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,Moscow
+sample_0161,client_0161,2021-07-05,05:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1400x1050,Chrome,Russia,(not set)
+sample_0162,client_0162,2021-07-05,12:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0163,client_0163,2021-07-06,12:00:00,4,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,428x926,Safari,Russia,Ufa
+sample_0164,client_0164,2021-07-06,14:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,MXqmDyetMTICSSitTjWV,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,384x854,Chrome,Russia,Moscow
+sample_0165,client_0165,2021-07-06,17:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,zPJpddwzkFqLMSYgtDqy,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,YaBrowser,Russia,Prokopyevsk
+sample_0166,client_0166,2021-07-07,12:00:00,3,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x892,Chrome,Russia,Moscow
+sample_0167,client_0167,2021-07-07,15:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0168,client_0168,2021-07-08,15:00:00,9,BKeImrJuRDZcHiSSTdzm,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1440x900,Safari,Russia,Yaroslavl
+sample_0169,client_0169,2021-07-08,19:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1280x800,YaBrowser,Russia,Khimki
+sample_0170,client_0170,2021-07-09,10:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,MXqmDyetMTICSSitTjWV,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,(not set)
+sample_0171,client_0171,2021-07-09,12:00:00,1,gDBGzjFKYabGgSPZvrDH,cpm,FTjNLDyTrXaWYgZymFkV,UxrnyMlRBSOhOjytXnMG,,desktop,,,,1920x1080,Chrome,Russia,Moscow
+sample_0172,client_0172,2021-07-09,15:00:00,1,geDcueAOghDzHkGMmdOq,cpm,FTjNLDyTrXaWYgZymFkV,WYLajZgbUhGimwBKDZUH,,mobile,,Huawei,,360x800,Android Webview,Russia,Moscow
+sample_0173,client_0173,2021-07-09,20:00:00,1,gDBGzjFKYabGgSPZvrDH,cpm,FTjNLDyTrXaWYgZymFkV,UxrnyMlRBSOhOjytXnMG,,desktop,,,,1366x768,YaBrowser,Russia,(not set)
+sample_0174,client_0174,2021-07-10,06:00:00,1,fbFKcMumlScApQMqFIqp,cpm,FTjNLDyTrXaWYgZymFkV,AdeErYgVTbRcAWtHrMHq,,mobile,,Xiaomi,,393x851,Chrome,Russia,Ramenskoye
+sample_0175,client_0175,2021-07-10,15:00:00,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Russia,Moscow
+sample_0176,client_0176,2021-07-10,18:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Samara
+sample_0177,client_0177,2021-07-11,10:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Vivo,,360x772,Chrome,Russia,Moscow
+sample_0178,client_0178,2021-07-11,20:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,JwYIveaHVpeeRZloQCfF,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,360x640,Chrome,Russia,Yekaterinburg
+sample_0179,client_0179,2021-07-11,21:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x667,Safari,Russia,Moscow
+sample_0180,client_0180,2021-07-12,16:00:00,1,geDcueAOghDzHkGMmdOq,cpm,FTjNLDyTrXaWYgZymFkV,WYLajZgbUhGimwBKDZUH,,mobile,,Xiaomi,,360x800,Android Webview,Russia,Syktyvkar
+sample_0181,client_0181,2021-07-12,17:00:00,3,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1792x1120,Chrome,Russia,Moscow
+sample_0182,client_0182,2021-07-12,18:00:00,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Russia,Saint Petersburg
+sample_0183,client_0183,2021-07-12,23:00:00,2,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x915,Chrome,Russia,Moscow
+sample_0184,client_0184,2021-07-13,01:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,2000x2000,Chrome,United States,Forest City
+sample_0185,client_0185,2021-07-13,09:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,EvhrtRzIJnQYHziPiLzV,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1680x1050,Chrome,Russia,Moscow
+sample_0186,client_0186,2021-07-13,15:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,IZEXUFLARCUMynmHNBGo,,,desktop,,,,1920x1080,Chrome,Russia,Tyumen
+sample_0187,client_0187,2021-07-14,00:00:00,2,XiUifkjKLLnomcDRhswp,cpm,FTjNLDyTrXaWYgZymFkV,twlfGCnyRPFtCeUKaust,,mobile,,Apple,,414x736,Safari,Russia,Moscow
+sample_0188,client_0188,2021-07-14,09:00:00,3,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0189,client_0189,2021-07-14,10:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,LwJZxKuWmvOhPsaCeRjG,,,mobile,,Apple,,375x812,Safari,Russia,Moscow
+sample_0190,client_0190,2021-07-14,11:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,nSReTmyFtbSjlPrTKoaX,,,mobile,,Xiaomi,,360x800,Chrome,Russia,Tula
+sample_0191,client_0191,2021-07-14,12:00:00,1,gDBGzjFKYabGgSPZvrDH,cpm,FTjNLDyTrXaWYgZymFkV,UxrnyMlRBSOhOjytXnMG,,desktop,,,,1600x1200,Chrome,Russia,Moscow
+sample_0192,client_0192,2021-07-14,14:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0193,client_0193,2021-07-14,19:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,mIKayglJaKQZvgdtLfqT,,,desktop,,,,1536x864,Chrome,Russia,Moscow
+sample_0194,client_0194,2021-07-14,20:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,EvhrtRzIJnQYHziPiLzV,,,desktop,,,,1920x1080,Chrome,Russia,Tyumen
+sample_0195,client_0195,2021-07-14,21:00:00,19,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0196,client_0196,2021-07-15,04:00:00,3,kjsLglQLzykiRbcDiGcD,cpc,EvhrtRzIJnQYHziPiLzV,,,desktop,,,,2560x1080,Chrome,Russia,Moscow
+sample_0197,client_0197,2021-07-15,10:00:00,1,BHcvLfOaCWvWTykYqHVe,cpc,,,,desktop,,,,1920x1080,Chrome,Russia,Moscow
+sample_0198,client_0198,2021-07-15,16:00:00,3,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Huawei,,360x720,Chrome,Russia,Rostov-on-Don
+sample_0199,client_0199,2021-07-15,20:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,mIKayglJaKQZvgdtLfqT,,,desktop,,,,1920x1080,Chrome,Russia,Moscow
+sample_0200,client_0200,2021-07-16,00:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Moscow
+sample_0201,client_0201,2021-07-16,12:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,sTkjcuMUikyInvCPLqNT,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1600x900,Chrome,Russia,(not set)
+sample_0202,client_0202,2021-07-16,18:00:00,3,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Xiaomi,,393x851,Chrome,Russia,Veliky Novgorod
+sample_0203,client_0203,2021-07-16,19:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,IZEXUFLARCUMynmHNBGo,,,desktop,,,,1458x911,Chrome,Russia,(not set)
+sample_0204,client_0204,2021-07-16,20:00:00,1,BHcvLfOaCWvWTykYqHVe,cpc,,,,desktop,,,,1920x1080,Chrome,Russia,(not set)
+sample_0205,client_0205,2021-07-17,12:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,RoDitORHdzGfGhNCyEMy,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x846,Chrome,Russia,Moscow
+sample_0206,client_0206,2021-07-17,13:00:00,2,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,dUuXlWzvmhDSyclWRhNP,,mobile,,Xiaomi,,393x786,Chrome,Russia,Saint Petersburg
+sample_0207,client_0207,2021-07-18,11:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,LwJZxKuWmvOhPsaCeRjG,,,mobile,,Samsung,,360x740,Chrome,Russia,Moscow
+sample_0208,client_0208,2021-07-18,13:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,bJJuEXRheRIxXEaYIXqM,,,mobile,,Apple,,428x926,Safari,Russia,Krasnoyarsk
+sample_0209,client_0209,2021-07-19,04:00:00,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,(not set),,360x800,YaBrowser,Russia,Tver
+sample_0210,client_0210,2021-07-19,11:00:00,2,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,Kurgan
+sample_0211,client_0211,2021-07-20,16:00:00,2,gDBGzjFKYabGgSPZvrDH,cpm,FTjNLDyTrXaWYgZymFkV,UxrnyMlRBSOhOjytXnMG,,desktop,,,,1680x1050,Opera,Russia,Moscow
+sample_0212,client_0212,2021-07-20,16:00:00,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,YaBrowser,Russia,Grozny
+sample_0213,client_0213,2021-07-20,22:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,dUuXlWzvmhDSyclWRhNP,,mobile,,Xiaomi,,360x640,Chrome,Russia,Pavlovsky Posad
+sample_0214,client_0214,2021-07-21,22:00:00,1,gDBGzjFKYabGgSPZvrDH,cpm,FTjNLDyTrXaWYgZymFkV,UxrnyMlRBSOhOjytXnMG,,desktop,,,,1366x768,Chrome,Russia,Moscow
+sample_0215,client_0215,2021-07-22,05:00:00,1,PlbkrSYoHuZBWfYjYnfw,cpm,FTjNLDyTrXaWYgZymFkV,TuyPWsGQruPMpKvRxeBF,,desktop,,,,1366x768,Opera,Russia,(not set)
+sample_0216,client_0216,2021-07-22,15:00:00,1,bByPQxmDaMXgpHeypKSM,referral,IKQsApKuPmZqqmhieEgf,QEPLWgIvqPEGXcwBrsFw,,desktop,,,,1920x1080,Chrome,Russia,Moscow
+sample_0217,client_0217,2021-07-22,17:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0218,client_0218,2021-07-22,19:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,dUuXlWzvmhDSyclWRhNP,,mobile,,Apple,,375x812,Safari,Russia,Saint Petersburg
+sample_0219,client_0219,2021-07-23,02:00:00,7,kjsLglQLzykiRbcDiGcD,cpc,vXsFkagGabkcWKlgLzSg,,,mobile,,Xiaomi,,393x851,Chrome,Russia,Saint Petersburg
+sample_0220,client_0220,2021-07-23,15:00:00,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1536x864,Chrome,Russia,Moscow
+sample_0221,client_0221,2021-07-23,20:00:00,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,428x926,Safari,Poland,Warsaw
+sample_0222,client_0222,2021-07-24,13:00:00,1,geDcueAOghDzHkGMmdOq,cpm,FTjNLDyTrXaWYgZymFkV,WYLajZgbUhGimwBKDZUH,,mobile,,OPPO,,360x780,Android Webview,Russia,(not set)
+sample_0223,client_0223,2021-07-25,07:00:00,13,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Samsung,,412x892,Chrome,Russia,Moscow
+sample_0224,client_0224,2021-07-27,12:00:00,1,PlbkrSYoHuZBWfYjYnfw,cpm,FTjNLDyTrXaWYgZymFkV,TuyPWsGQruPMpKvRxeBF,,desktop,,,,2560x1440,Chrome,Russia,(not set)
+sample_0225,client_0225,2021-07-27,17:00:00,1,bByPQxmDaMXgpHeypKSM,referral,IKQsApKuPmZqqmhieEgf,jydEWYUtqCvdQucWTOqa,,desktop,,,,1920x1080,Chrome,Russia,Moscow
+sample_0226,client_0226,2021-07-27,20:00:00,2,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x915,Samsung Internet,Russia,Nizhny Novgorod
+sample_0227,client_0227,2021-07-28,12:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,Voronezh
+sample_0228,client_0228,2021-07-29,13:00:00,1,gDBGzjFKYabGgSPZvrDH,cpm,FTjNLDyTrXaWYgZymFkV,UxrnyMlRBSOhOjytXnMG,,desktop,,,,1280x768,Opera,Russia,Serpukhov
+sample_0229,client_0229,2021-07-29,15:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x915,Chrome,Russia,Moscow
+sample_0230,client_0230,2021-07-29,18:00:00,5,aXQzDWsJuGXeBXexNHjc,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0231,client_0231,2021-07-29,21:00:00,2,kjsLglQLzykiRbcDiGcD,organic,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x736,Safari,Russia,Moscow
+sample_0232,client_0232,2021-07-29,23:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,424x942,YaBrowser,Russia,Elektrostal
+sample_0233,client_0233,2021-07-30,18:00:00,2,kjsLglQLzykiRbcDiGcD,organic,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Russia,(not set)
+sample_0234,client_0234,2021-07-31,10:00:00,1,geDcueAOghDzHkGMmdOq,cpm,FTjNLDyTrXaWYgZymFkV,WYLajZgbUhGimwBKDZUH,,desktop,,,,1920x1080,YaBrowser,Russia,Odintsovo
+sample_0235,client_0235,2021-07-31,10:00:00,1,gDBGzjFKYabGgSPZvrDH,cpm,FTjNLDyTrXaWYgZymFkV,UxrnyMlRBSOhOjytXnMG,,desktop,,,,1366x768,Opera,Russia,Malakhovka
+sample_0236,client_0236,2021-08-01,07:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x818,Chrome,Russia,Kemerovo
+sample_0237,client_0237,2021-08-01,11:00:00,2,BHcvLfOaCWvWTykYqHVe,cpc,,,,tablet,,Apple,,768x1024,Safari,Russia,Lyubertsy
+sample_0238,client_0238,2021-08-02,17:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,LwJZxKuWmvOhPsaCeRjG,,,mobile,,Apple,,390x844,Safari,Russia,Moscow
+sample_0239,client_0239,2021-08-03,13:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,RoDitORHdzGfGhNCyEMy,,,mobile,,Apple,,414x736,Safari,Russia,Nizhny Novgorod
+sample_0240,client_0240,2021-08-03,14:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Moscow
+sample_0241,client_0241,2021-08-05,19:00:00,3,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Samsung,,412x869,Chrome,Russia,Moscow
+sample_0242,client_0242,2021-08-06,03:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,RoDitORHdzGfGhNCyEMy,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,Moscow
+sample_0243,client_0243,2021-08-06,19:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x869,Chrome,Russia,Rostov-on-Don
+sample_0244,client_0244,2021-08-06,19:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,RoDitORHdzGfGhNCyEMy,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,(not set)
+sample_0245,client_0245,2021-08-07,07:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,360x640,Chrome,Russia,Moscow
+sample_0246,client_0246,2021-08-07,08:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Orenburg
+sample_0247,client_0247,2021-08-07,08:00:00,1,bByPQxmDaMXgpHeypKSM,referral,,,,mobile,,Huawei,,360x780,Chrome,Russia,Moscow
+sample_0248,client_0248,2021-08-07,12:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0249,client_0249,2021-08-08,09:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,XHNUiSKKGTEpSAlaVMFQ,,,desktop,,,,1440x900,Safari,Russia,Moscow
+sample_0250,client_0250,2021-08-09,13:00:00,1,BHcvLfOaCWvWTykYqHVe,cpc,,,,mobile,,Samsung,,412x892,Chrome,Russia,Moscow
+sample_0251,client_0251,2021-08-09,17:00:00,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x780,Chrome,Russia,Saint Petersburg
+sample_0252,client_0252,2021-08-10,01:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,LwJZxKuWmvOhPsaCeRjG,,,desktop,,,,1920x1080,Chrome,Russia,(not set)
+sample_0253,client_0253,2021-08-10,09:00:00,5,BHcvLfOaCWvWTykYqHVe,cpc,,,,mobile,,Apple,,390x844,YaBrowser,Russia,Moscow
+sample_0254,client_0254,2021-08-10,12:00:00,1,bByPQxmDaMXgpHeypKSM,referral,HEimDfYZIzuQXDZAAcEW,XSkXBCPfnJjvxbfeewtd,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0255,client_0255,2021-08-10,15:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x720,Chrome,Russia,Ufa
+sample_0256,client_0256,2021-08-10,15:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x846,Chrome,Russia,Moscow
+sample_0257,client_0257,2021-08-10,22:00:00,2,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,Moscow
+sample_0258,client_0258,2021-08-11,01:00:00,1,DnEUulZAecfGPvdtZBYS,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x667,Chrome,Russia,Mytishchi
+sample_0259,client_0259,2021-08-11,02:00:00,6,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,375x667,Safari,Russia,Saint Petersburg
+sample_0260,client_0260,2021-08-11,05:00:00,1,BHcvLfOaCWvWTykYqHVe,cpc,,,,mobile,,Samsung,,360x640,Chrome,Russia,Moscow
+sample_0261,client_0261,2021-08-11,10:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Saint Petersburg
+sample_0262,client_0262,2021-08-12,08:00:00,4,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0263,client_0263,2021-08-12,10:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x800,Chrome,Russia,Moscow
+sample_0264,client_0264,2021-08-12,14:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,nSReTmyFtbSjlPrTKoaX,,,mobile,,Xiaomi,,393x830,Chrome,Belarus,Minsk
+sample_0265,client_0265,2021-08-13,21:00:00,2,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,360x640,Samsung Internet,Russia,Ufa
+sample_0266,client_0266,2021-08-14,14:00:00,2,kjsLglQLzykiRbcDiGcD,organic,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x892,Chrome,Russia,Moscow
+sample_0267,client_0267,2021-08-14,19:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x780,Chrome,Russia,Saint Petersburg
+sample_0268,client_0268,2021-08-15,15:00:00,1,PlbkrSYoHuZBWfYjYnfw,cpm,FTjNLDyTrXaWYgZymFkV,TuyPWsGQruPMpKvRxeBF,,desktop,,,,1920x1080,Chrome,Russia,(not set)
+sample_0269,client_0269,2021-08-15,18:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0270,client_0270,2021-08-15,22:00:00,6,BHcvLfOaCWvWTykYqHVe,cpc,,,,mobile,,Samsung,,412x846,Samsung Internet,Russia,Ramenskoye
+sample_0271,client_0271,2021-08-15,23:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Samsung,,915x412,Chrome,Russia,Moscow
+sample_0272,client_0272,2021-08-16,02:00:00,1,kjsLglQLzykiRbcDiGcD,organic,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,(not set)
+sample_0273,client_0273,2021-08-16,05:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x873,YaBrowser,Russia,Moscow
+sample_0274,client_0274,2021-08-16,08:00:00,1,PlbkrSYoHuZBWfYjYnfw,cpm,FTjNLDyTrXaWYgZymFkV,TuyPWsGQruPMpKvRxeBF,,desktop,,,,1920x1080,Chrome,Russia,(not set)
+sample_0275,client_0275,2021-08-16,12:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Opera,Russia,Saransk
+sample_0276,client_0276,2021-08-16,21:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,NSbcaLfXREiOVOXTmbnD,,,mobile,,Apple,,375x667,Safari,Turkey,Antalya
+sample_0277,client_0277,2021-08-16,23:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,OPPO,,360x800,Chrome,Russia,Moscow
+sample_0278,client_0278,2021-08-17,00:00:00,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,428x926,Safari,Dominican Republic,La Romana
+sample_0279,client_0279,2021-08-17,17:00:00,1,BHcvLfOaCWvWTykYqHVe,cpc,,,,mobile,,Xiaomi,,393x830,Chrome,Russia,Saint Petersburg
+sample_0280,client_0280,2021-08-17,18:00:00,4,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,375x667,Safari,Russia,Moscow
+sample_0281,client_0281,2021-08-17,23:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x780,YaBrowser,Russia,Moscow
+sample_0282,client_0282,2021-08-17,23:00:00,1,kjsLglQLzykiRbcDiGcD,organic,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1536x864,Chrome,Russia,Moscow
+sample_0283,client_0283,2021-08-18,17:00:00,4,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,414x896,Safari,Russia,Saint Petersburg
+sample_0284,client_0284,2021-08-18,17:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,NSbcaLfXREiOVOXTmbnD,,,desktop,,,,1920x1200,Chrome,Russia,Saint Petersburg
+sample_0285,client_0285,2021-08-19,06:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Samsung,,412x892,Samsung Internet,Russia,Moscow
+sample_0286,client_0286,2021-08-19,13:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,360x720,Chrome,Russia,Saint Petersburg
+sample_0287,client_0287,2021-08-19,22:00:00,2,kjsLglQLzykiRbcDiGcD,cpc,LwJZxKuWmvOhPsaCeRjG,,,desktop,,,,1366x768,Chrome,Ukraine,Kyiv
+sample_0288,client_0288,2021-08-19,22:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,2000x2000,Safari,United States,Forest City
+sample_0289,client_0289,2021-08-19,22:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x760,Chrome,Russia,Voskresensk
+sample_0290,client_0290,2021-08-20,03:00:00,1,bByPQxmDaMXgpHeypKSM,referral,HEimDfYZIzuQXDZAAcEW,ZKlsrASsGaoEHfwkdKjL,,desktop,,,,1920x1080,YaBrowser,Russia,Novosibirsk
+sample_0291,client_0291,2021-08-20,07:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,360x780,Chrome,Russia,Moscow
+sample_0292,client_0292,2021-08-20,08:00:00,2,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,414x896,Safari,Russia,Domodedovo
+sample_0293,client_0293,2021-08-20,12:00:00,1,bByPQxmDaMXgpHeypKSM,referral,hkvDVxqLOzGjGaoNiNzN,ZKlsrASsGaoEHfwkdKjL,,desktop,,,,1600x900,YaBrowser,Russia,Moscow
+sample_0294,client_0294,2021-08-20,13:00:00,2,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0295,client_0295,2021-08-20,14:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,dUuXlWzvmhDSyclWRhNP,,mobile,,Samsung,,320x569,Chrome,Russia,Moscow
+sample_0296,client_0296,2021-08-20,19:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,dUuXlWzvmhDSyclWRhNP,,mobile,,Huawei,,760x360,Chrome,Russia,Moscow
+sample_0297,client_0297,2021-08-20,21:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0298,client_0298,2021-08-20,22:00:00,2,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x800,Chrome,Russia,(not set)
+sample_0299,client_0299,2021-08-21,02:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,RoDitORHdzGfGhNCyEMy,,,mobile,,Apple,,320x693,Safari,Russia,Moscow
+sample_0300,client_0300,2021-08-21,12:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,dUuXlWzvmhDSyclWRhNP,,mobile,,Xiaomi,,851x393,Chrome,Russia,Moscow
+sample_0301,client_0301,2021-08-21,17:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,nSReTmyFtbSjlPrTKoaX,,,mobile,,Apple,,414x896,Safari,Russia,Khimki
+sample_0302,client_0302,2021-08-22,00:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,(not set),,360x780,Chrome,Russia,Moscow
+sample_0303,client_0303,2021-08-22,06:00:00,2,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x667,Safari,Russia,Moscow
+sample_0304,client_0304,2021-08-22,14:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,390x844,Safari,Russia,Moscow
+sample_0305,client_0305,2021-08-22,20:00:00,2,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Moscow
+sample_0306,client_0306,2021-08-22,23:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Xiaomi,,760x360,Chrome,Russia,Moscow
+sample_0307,client_0307,2021-08-23,07:00:00,23,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Moscow
+sample_0308,client_0308,2021-08-23,08:00:00,1,gVRrcxiDQubJiljoTbGm,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x771,Android Webview,Russia,Moscow
+sample_0309,client_0309,2021-08-23,10:00:00,1,BHcvLfOaCWvWTykYqHVe,cpc,,,,mobile,,Apple,,390x844,Safari,Russia,Moscow
+sample_0310,client_0310,2021-08-23,11:00:00,1,PlbkrSYoHuZBWfYjYnfw,cpm,FTjNLDyTrXaWYgZymFkV,TuyPWsGQruPMpKvRxeBF,,desktop,,,,1920x1080,YaBrowser,Russia,Saint Petersburg
+sample_0311,client_0311,2021-08-24,09:00:00,1,kjsLglQLzykiRbcDiGcD,organic,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,Moscow
+sample_0312,client_0312,2021-08-24,16:00:00,6,BHcvLfOaCWvWTykYqHVe,cpc,,,,desktop,,,,5120x1440,YaBrowser,Russia,Moscow
+sample_0313,client_0313,2021-08-25,06:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,dUuXlWzvmhDSyclWRhNP,,mobile,,Huawei,,780x360,Chrome,Russia,Istra
+sample_0314,client_0314,2021-08-26,20:00:00,1,PlbkrSYoHuZBWfYjYnfw,cpm,FTjNLDyTrXaWYgZymFkV,TuyPWsGQruPMpKvRxeBF,,desktop,,,,1536x864,Chrome,Russia,Moscow
+sample_0315,client_0315,2021-08-27,02:00:00,1,PlbkrSYoHuZBWfYjYnfw,cpm,FTjNLDyTrXaWYgZymFkV,TuyPWsGQruPMpKvRxeBF,,desktop,,,,1600x900,Chrome,Russia,Moscow
+sample_0316,client_0316,2021-08-27,10:00:00,1,qVXuCoVQtPxcUkAXiXBa,banner,jfLxUKobDdJlutbwyjaU,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x818,Chrome,Russia,Moscow
+sample_0317,client_0317,2021-08-27,22:00:00,1,QxAxdyPLuQMEcrdZWdWb,post,ESphyUeLTPINiYALHWrO,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,2000x2000,Firefox,United States,Fort Worth
+sample_0318,client_0318,2021-08-27,23:00:00,3,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,428x926,Safari,Russia,Saint Petersburg
+sample_0319,client_0319,2021-08-28,07:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x720,Chrome,Russia,Klimovsk
+sample_0320,client_0320,2021-08-28,11:00:00,1,ISrKoXQCxqqYvAZICvjs,post,ESphyUeLTPINiYALHWrO,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,390x844,Safari (in-app),Russia,Saint Petersburg
+sample_0321,client_0321,2021-08-28,15:00:00,3,kjsLglQLzykiRbcDiGcD,cpc,,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1440x900,Chrome,Russia,Moscow
+sample_0322,client_0322,2021-08-29,04:00:00,3,kjsLglQLzykiRbcDiGcD,cpc,nSReTmyFtbSjlPrTKoaX,,,mobile,,Xiaomi,,393x873,Opera,Russia,Moscow
+sample_0323,client_0323,2021-08-29,15:00:00,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1792x1120,Chrome,Russia,Kazan
+sample_0324,client_0324,2021-08-29,15:00:00,1,ISrKoXQCxqqYvAZICvjs,post,ESphyUeLTPINiYALHWrO,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x780,Android Webview,Russia,Saint Petersburg
+sample_0325,client_0325,2021-08-29,17:00:00,5,HFaOtpcChAlcMuxEAlpu,cpc,hkvDVxqLOzGjGaoNiNzN,XSkXBCPfnJjvxbfeewtd,,mobile,,Samsung,,320x712,Chrome,Russia,Yekaterinburg
+sample_0326,client_0326,2021-08-29,21:00:00,1,nSReTmyFtbSjlPrTKoaX,banner,BVKxkCOHKUOvkpbrLMgZ,JNHcPlZPxEMWDnRiyoBf,,mobile,,Vivo,,360x772,Chrome,Russia,Moscow
+sample_0327,client_0327,2021-08-30,00:00:00,1,ISrKoXQCxqqYvAZICvjs,post,ESphyUeLTPINiYALHWrO,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x780,Android Webview,Russia,Dubna
+sample_0328,client_0328,2021-08-30,11:00:00,2,BHcvLfOaCWvWTykYqHVe,cpc,,,,mobile,,Huawei,,363x797,Chrome,Russia,Moscow
+sample_0329,client_0329,2021-08-30,12:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Apple,,375x667,Safari,Russia,Moscow
+sample_0330,client_0330,2021-08-30,12:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Samsung,,412x869,Chrome,Russia,Dolgoprudny
+sample_0331,client_0331,2021-08-30,13:00:00,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1440x900,Safari,Russia,Cherepovets
+sample_0332,client_0332,2021-08-30,15:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x800,YaBrowser,Russia,Moscow
+sample_0333,client_0333,2021-08-30,15:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0334,client_0334,2021-08-30,21:00:00,6,ISrKoXQCxqqYvAZICvjs,post,ESphyUeLTPINiYALHWrO,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Saint Petersburg
+sample_0335,client_0335,2021-08-30,21:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1600x900,YaBrowser,Russia,Penza
+sample_0336,client_0336,2021-08-30,23:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Russia,Moscow
+sample_0337,client_0337,2021-08-31,03:00:00,1,PlbkrSYoHuZBWfYjYnfw,cpm,FTjNLDyTrXaWYgZymFkV,TuyPWsGQruPMpKvRxeBF,,desktop,,,,1920x1080,Chrome,Russia,Moscow
+sample_0338,client_0338,2021-08-31,17:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Huawei,,360x760,Chrome,Russia,Moscow
+sample_0339,client_0339,2021-09-01,09:00:00,4,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0340,client_0340,2021-09-01,10:00:00,1,QxAxdyPLuQMEcrdZWdWb,post,ESphyUeLTPINiYALHWrO,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x800,Android Webview,Russia,Moscow
+sample_0341,client_0341,2021-09-01,14:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Moscow
+sample_0342,client_0342,2021-09-01,15:00:00,3,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Chrome,Russia,Moscow
+sample_0343,client_0343,2021-09-01,19:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Xiaomi,,393x851,Chrome,Russia,Moscow
+sample_0344,client_0344,2021-09-01,20:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,nSReTmyFtbSjlPrTKoaX,,,desktop,,,,1280x1024,Chrome,Russia,Moscow
+sample_0345,client_0345,2021-09-01,21:00:00,1,BHcvLfOaCWvWTykYqHVe,cpc,,,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0346,client_0346,2021-09-02,15:00:00,1,PlbkrSYoHuZBWfYjYnfw,cpm,FTjNLDyTrXaWYgZymFkV,TuyPWsGQruPMpKvRxeBF,,desktop,,,,1920x1080,Chrome,Russia,Moscow
+sample_0347,client_0347,2021-09-02,17:00:00,2,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Xiaomi,,343x686,Chrome,Russia,Saint Petersburg
+sample_0348,client_0348,2021-09-02,19:00:00,2,kjsLglQLzykiRbcDiGcD,cpc,vVspBWANjeNCTQJpJJeE,eOWmIGTKVDPewucDtZXG,,tablet,,Apple,,768x1024,Safari,Russia,Saint Petersburg
+sample_0349,client_0349,2021-09-02,22:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,LwJZxKuWmvOhPsaCeRjG,,,desktop,,,,1680x1050,Chrome,Russia,Moscow
+sample_0350,client_0350,2021-09-03,08:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,bJJuEXRheRIxXEaYIXqM,,,mobile,,Huawei,,360x780,Chrome,Russia,Saint Petersburg
+sample_0351,client_0351,2021-09-03,11:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,nSReTmyFtbSjlPrTKoaX,,,desktop,,,,1920x1200,Chrome,Germany,Neubiberg
+sample_0352,client_0352,2021-09-03,13:00:00,1,PlbkrSYoHuZBWfYjYnfw,cpm,FTjNLDyTrXaWYgZymFkV,TuyPWsGQruPMpKvRxeBF,,desktop,,,,1920x1080,Chrome,Russia,Moscow
+sample_0353,client_0353,2021-09-03,16:00:00,1,IZEXUFLARCUMynmHNBGo,blogger_channel,ngkgBNjlzLYBofkljaBo,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Kazan
+sample_0354,client_0354,2021-09-03,21:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x915,Chrome,Russia,Saint Petersburg
+sample_0355,client_0355,2021-09-04,09:00:00,3,nSReTmyFtbSjlPrTKoaX,banner,BVKxkCOHKUOvkpbrLMgZ,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1440x900,YaBrowser,Russia,Moscow
+sample_0356,client_0356,2021-09-04,11:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Huawei,,760x360,Chrome,Russia,Moscow
+sample_0357,client_0357,2021-09-04,16:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,,,,tablet,,Apple,,768x1024,Safari,Russia,Saint Petersburg
+sample_0358,client_0358,2021-09-04,23:00:00,9,kjsLglQLzykiRbcDiGcD,organic,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,385x854,Chrome,Russia,Kratovo
+sample_0359,client_0359,2021-09-05,00:00:00,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari (in-app),Russia,Moscow
+sample_0360,client_0360,2021-09-05,09:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Samsung,,412x892,Chrome,Russia,Saint Petersburg
+sample_0361,client_0361,2021-09-05,14:00:00,4,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,375x812,Safari,Russia,Moscow
+sample_0362,client_0362,2021-09-05,15:00:00,2,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,375x667,Safari,Russia,Saint Petersburg
+sample_0363,client_0363,2021-09-05,17:00:00,1,BHcvLfOaCWvWTykYqHVe,cpc,,,,mobile,,Apple,,390x844,Safari,Russia,Moscow
+sample_0364,client_0364,2021-09-06,00:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Xiaomi,,393x851,Chrome,Russia,Moscow
+sample_0365,client_0365,2021-09-06,07:00:00,1,MvfHsxITijuriZxsqZqt,blogger_channel,gVwpGdJDpteNmFIatPTG,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x667,Safari,Russia,Krasnodar
+sample_0366,client_0366,2021-09-06,13:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x667,Safari,Russia,Moscow
+sample_0367,client_0367,2021-09-06,15:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,XHNUiSKKGTEpSAlaVMFQ,,,mobile,,Apple,,390x844,Safari,Russia,Moscow
+sample_0368,client_0368,2021-09-06,16:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0369,client_0369,2021-09-06,17:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x915,Samsung Internet,Russia,Moscow
+sample_0370,client_0370,2021-09-07,11:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Realme,,360x800,Chrome,Russia,Saint Petersburg
+sample_0371,client_0371,2021-09-07,15:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,bJJuEXRheRIxXEaYIXqM,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1366x768,Chrome,United States,Secaucus
+sample_0372,client_0372,2021-09-07,17:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x760,Chrome,Russia,Saint Petersburg
+sample_0373,client_0373,2021-09-08,00:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Samsung,,915x412,Samsung Internet,Russia,Moscow
+sample_0374,client_0374,2021-09-08,08:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,dUuXlWzvmhDSyclWRhNP,,mobile,,Samsung,,360x640,Chrome,Russia,Saint Petersburg
+sample_0375,client_0375,2021-09-08,11:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,LwJZxKuWmvOhPsaCeRjG,,,desktop,,,,1536x864,Edge,Russia,Moscow
+sample_0376,client_0376,2021-09-08,11:00:00,1,BHcvLfOaCWvWTykYqHVe,cpc,,,,desktop,,,,1920x1080,Edge,Russia,Moscow
+sample_0377,client_0377,2021-09-08,12:00:00,10,BHcvLfOaCWvWTykYqHVe,cpc,,,,mobile,,Samsung,,412x846,YaBrowser,Russia,Moscow
+sample_0378,client_0378,2021-09-08,13:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Samsung,,740x360,Samsung Internet,Russia,Saint Petersburg
+sample_0379,client_0379,2021-09-09,05:00:00,4,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x892,YaBrowser,Russia,Kazan
+sample_0380,client_0380,2021-09-09,13:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,320x568,Safari (in-app),Russia,Zheleznodorozhny
+sample_0381,client_0381,2021-09-09,20:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Xiaomi,,393x873,Chrome,Russia,Moscow
+sample_0382,client_0382,2021-09-10,09:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari (in-app),Russia,Moscow
+sample_0383,client_0383,2021-09-10,10:00:00,8,kjsLglQLzykiRbcDiGcD,cpc,DsqwamlMwRgMTyspCjFR,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,390x844,Safari,Russia,Moscow
+sample_0384,client_0384,2021-09-10,12:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,360x640,Chrome,Russia,Saint Petersburg
+sample_0385,client_0385,2021-09-10,14:00:00,7,BHcvLfOaCWvWTykYqHVe,cpc,,,,mobile,,Apple,,375x667,Safari,Russia,Saint Petersburg
+sample_0386,client_0386,2021-09-10,20:00:00,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1152x864,YaBrowser,Russia,Izhevsk
+sample_0387,client_0387,2021-09-11,00:00:00,4,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0388,client_0388,2021-09-11,07:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x640,Chrome,Russia,Moscow
+sample_0389,client_0389,2021-09-11,10:00:00,6,kjsLglQLzykiRbcDiGcD,cpc,nSReTmyFtbSjlPrTKoaX,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x892,Chrome,Russia,Moscow
+sample_0390,client_0390,2021-09-11,13:00:00,1,ISrKoXQCxqqYvAZICvjs,blogger_header,WjjvSVHOFOxHwlNJQcyk,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x873,Android Webview,Russia,Chelyabinsk
+sample_0391,client_0391,2021-09-11,16:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Samsung,,412x892,Chrome,Russia,Moscow
+sample_0392,client_0392,2021-09-12,18:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,vVspBWANjeNCTQJpJJeE,eOWmIGTKVDPewucDtZXG,,desktop,,,,1366x768,YaBrowser,Russia,Petrozavodsk
+sample_0393,client_0393,2021-09-13,10:00:00,1,PlbkrSYoHuZBWfYjYnfw,cpm,FTjNLDyTrXaWYgZymFkV,TuyPWsGQruPMpKvRxeBF,,desktop,,,,2560x1080,Chrome,Russia,Moscow
+sample_0394,client_0394,2021-09-13,16:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Russia,Moscow
+sample_0395,client_0395,2021-09-13,20:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Apple,,375x667,Safari,Russia,Moscow
+sample_0396,client_0396,2021-09-13,21:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,320x694,Chrome,Russia,Moscow
+sample_0397,client_0397,2021-09-14,06:00:00,1,jaSOmLICuBzCFqHfBdRg,email,YCKgTzTDywjcWyQudGch,nNqUcgFgcqQbTVSvgaHr,,desktop,,,,1920x1080,YaBrowser,Russia,Novosibirsk
+sample_0398,client_0398,2021-09-14,08:00:00,1,QxAxdyPLuQMEcrdZWdWb,cpm,PuSsXRwSpZeHuyXoHqhm,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x667,Safari (in-app),Russia,Saint Petersburg
+sample_0399,client_0399,2021-09-14,09:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Saint Petersburg
+sample_0400,client_0400,2021-09-14,09:00:00,1,jaSOmLICuBzCFqHfBdRg,email,YCKgTzTDywjcWyQudGch,nNqUcgFgcqQbTVSvgaHr,,desktop,,,,1600x900,Edge,Russia,Moscow
+sample_0401,client_0401,2021-09-14,09:00:00,1,jaSOmLICuBzCFqHfBdRg,email,YCKgTzTDywjcWyQudGch,GpVVpqYEqQSmYZrOPfSZ,,desktop,,,,810x1080,Safari,Russia,Moscow
+sample_0402,client_0402,2021-09-14,09:00:00,1,jaSOmLICuBzCFqHfBdRg,email,YCKgTzTDywjcWyQudGch,nNqUcgFgcqQbTVSvgaHr,,desktop,,,,1600x900,YaBrowser,Russia,Saint Petersburg
+sample_0403,client_0403,2021-09-14,10:00:00,3,jaSOmLICuBzCFqHfBdRg,email,YCKgTzTDywjcWyQudGch,WAeycgIqKXoOMXPzDUDX,,desktop,,,,1536x864,Chrome,Russia,Moscow
+sample_0404,client_0404,2021-09-14,16:00:00,2,BHcvLfOaCWvWTykYqHVe,cpc,,,,mobile,,Apple,,375x667,Safari,Russia,Moscow
+sample_0405,client_0405,2021-09-14,18:00:00,2,jaSOmLICuBzCFqHfBdRg,email,YCKgTzTDywjcWyQudGch,nNqUcgFgcqQbTVSvgaHr,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0406,client_0406,2021-09-14,21:00:00,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x873,Chrome,Russia,Saint Petersburg
+sample_0407,client_0407,2021-09-15,08:00:00,1,bByPQxmDaMXgpHeypKSM,referral,IKQsApKuPmZqqmhieEgf,IwBedorwDIzxDRIZUTNo,,desktop,,,,1366x768,Chrome,Russia,Lipetsk
+sample_0408,client_0408,2021-09-15,10:00:00,2,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,375x667,Safari,Russia,Saint Petersburg
+sample_0409,client_0409,2021-09-15,14:00:00,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,Naberezhnye Chelny
+sample_0410,client_0410,2021-09-15,22:00:00,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Krasnodar
+sample_0411,client_0411,2021-09-15,22:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,360x640,Chrome,Russia,Moscow
+sample_0412,client_0412,2021-09-16,17:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,RoDitORHdzGfGhNCyEMy,,,mobile,,Huawei,,360x640,Chrome,Russia,Moscow
+sample_0413,client_0413,2021-09-17,12:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,428x926,Safari (in-app),Russia,Saint Petersburg
+sample_0414,client_0414,2021-09-17,14:00:00,1,BHcvLfOaCWvWTykYqHVe,cpc,,,,mobile,,Samsung,,412x869,Chrome,Russia,Moscow
+sample_0415,client_0415,2021-09-17,18:00:00,10,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Saint Petersburg
+sample_0416,client_0416,2021-09-17,19:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Huawei,,720x360,Chrome,Russia,Saint Petersburg
+sample_0417,client_0417,2021-09-17,19:00:00,8,kjsLglQLzykiRbcDiGcD,cpc,,,,desktop,,,,1280x800,Safari,Russia,Saint Petersburg
+sample_0418,client_0418,2021-09-17,20:00:00,3,aXQzDWsJuGXeBXexNHjc,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1440x900,Safari,Russia,(not set)
+sample_0419,client_0419,2021-09-18,12:00:00,3,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,375x812,Chrome,Russia,(not set)
+sample_0420,client_0420,2021-09-18,17:00:00,4,kjsLglQLzykiRbcDiGcD,cpc,,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Chrome,Russia,Moscow
+sample_0421,client_0421,2021-09-19,00:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x846,Chrome,Russia,Saint Petersburg
+sample_0422,client_0422,2021-09-19,02:00:00,4,kjsLglQLzykiRbcDiGcD,cpc,XHNUiSKKGTEpSAlaVMFQ,,,mobile,,Huawei,,360x747,Chrome,Russia,Vladivostok
+sample_0423,client_0423,2021-09-19,07:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,RoDitORHdzGfGhNCyEMy,,,mobile,,Xiaomi,,360x760,Chrome,Ukraine,Hlukhiv
+sample_0424,client_0424,2021-09-19,11:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Xiaomi,,851x393,Chrome,Russia,Moscow
+sample_0425,client_0425,2021-09-19,12:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,CdkIkBrvEVomSgvHzYvj,aYAcKhelKzYpXrRYknSP,,mobile,,Xiaomi,,360x720,Chrome,Russia,Moscow
+sample_0426,client_0426,2021-09-19,12:00:00,1,nSReTmyFtbSjlPrTKoaX,banner,BVKxkCOHKUOvkpbrLMgZ,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Kirishi
+sample_0427,client_0427,2021-09-19,17:00:00,7,aXQzDWsJuGXeBXexNHjc,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1536x864,YaBrowser,Russia,Krasnodar
+sample_0428,client_0428,2021-09-20,10:00:00,2,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Xiaomi,,720x360,Chrome,Russia,Moscow
+sample_0429,client_0429,2021-09-20,17:00:00,3,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,414x896,Chrome,Russia,Ufa
+sample_0430,client_0430,2021-09-20,23:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,320x693,Safari,Russia,Moscow
+sample_0431,client_0431,2021-09-21,13:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Xiaomi,,360x800,Chrome,Russia,Moscow
+sample_0432,client_0432,2021-09-21,19:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,2560x1440,Chrome,Russia,Moscow
+sample_0433,client_0433,2021-09-21,23:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,428x926,Safari,Russia,Nakhabino
+sample_0434,client_0434,2021-09-22,18:40:16,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Macintosh,,,1920x1080,Chrome,Russia,Domodedovo
+sample_0435,client_0435,2021-09-22,20:56:38,2,kjsLglQLzykiRbcDiGcD,cpc,,,sKuhgZXGwZSwSoGyRIEH,mobile,iOS,Apple,,414x896,Safari,Russia,Saint Petersburg
+sample_0436,client_0436,2021-09-23,02:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,OPPO,,320x712,Chrome,Russia,Saint Petersburg
+sample_0437,client_0437,2021-09-23,11:42:12,1,kjsLglQLzykiRbcDiGcD,cpc,DsqwamlMwRgMTyspCjFR,JNHcPlZPxEMWDnRiyoBf,aOyuIrXcEKpTEyGVbZFT,mobile,Android,Samsung,,412x915,YaBrowser,Russia,Moscow
+sample_0438,client_0438,2021-09-23,17:02:26,88,kjsLglQLzykiRbcDiGcD,cpc,nSReTmyFtbSjlPrTKoaX,,gDBGzjFKYabGgSPZvrDH,mobile,iOS,Apple,,414x896,Safari,Russia,(not set)
+sample_0439,client_0439,2021-09-23,21:00:00,1,MvfHsxITijuriZxsqZqt,blogger_channel,qUcotcWimEOQiboVPcCx,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x736,Chrome,Russia,Moscow
+sample_0440,client_0440,2021-09-24,00:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1536x864,Chrome,Russia,Naberezhnye Chelny
+sample_0441,client_0441,2021-09-24,06:35:19,1,PlbkrSYoHuZBWfYjYnfw,cpm,FTjNLDyTrXaWYgZymFkV,TuyPWsGQruPMpKvRxeBF,quxdQHtdlpFZfBZSiXFZ,desktop,Windows,,,1536x864,Opera,Russia,Saint Petersburg
+sample_0442,client_0442,2021-09-24,09:07:12,1,RmEBuqrriAfAVsLQQmhk,cpc,VBmazutCflYumtDHrQYe,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x780,Chrome,Russia,Moscow
+sample_0443,client_0443,2021-09-24,10:54:55,1,BHcvLfOaCWvWTykYqHVe,cpc,,,IwbzyuCJqFFqfQmlaRYo,desktop,Windows,,,1680x1050,Chrome,Russia,Saint Petersburg
+sample_0444,client_0444,2021-09-24,14:17:48,1,RmEBuqrriAfAVsLQQmhk,cpc,KgicpPxiEQfzPlPwQZJq,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,Chrome,Russia,Moscow
+sample_0445,client_0445,2021-09-24,18:00:00,1,RmEBuqrriAfAVsLQQmhk,cpc,KgicpPxiEQfzPlPwQZJq,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,360x720,Chrome,Russia,Sergiyev Posad
+sample_0446,client_0446,2021-09-24,20:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Samsung,,360x640,YaBrowser,Russia,Saint Petersburg
+sample_0447,client_0447,2021-09-24,23:11:55,1,RmEBuqrriAfAVsLQQmhk,cpc,kVOrIKZFrEYGvixPclal,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x916,Chrome,Russia,Moscow
+sample_0448,client_0448,2021-09-25,00:00:00,1,RmEBuqrriAfAVsLQQmhk,cpc,bgTYkDHjOsJzMUtoGhiQ,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x780,Chrome,Russia,Saint Petersburg
+sample_0449,client_0449,2021-09-25,00:00:00,1,RmEBuqrriAfAVsLQQmhk,cpc,kVOrIKZFrEYGvixPclal,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x667,YaBrowser,Russia,Moscow
+sample_0450,client_0450,2021-09-25,04:00:00,1,RmEBuqrriAfAVsLQQmhk,cpc,KgicpPxiEQfzPlPwQZJq,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Serpukhov
+sample_0451,client_0451,2021-09-25,07:00:00,1,RmEBuqrriAfAVsLQQmhk,cpc,kVOrIKZFrEYGvixPclal,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,873x393,Chrome,Russia,Ufa
+sample_0452,client_0452,2021-09-25,10:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0453,client_0453,2021-09-26,00:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Xiaomi,,360x800,Chrome,Russia,Moscow
+sample_0454,client_0454,2021-09-26,02:00:00,1,PlbkrSYoHuZBWfYjYnfw,cpm,FTjNLDyTrXaWYgZymFkV,TuyPWsGQruPMpKvRxeBF,,desktop,,,,1920x1080,Chrome,Russia,Moscow
+sample_0455,client_0455,2021-09-26,09:00:00,10,kjsLglQLzykiRbcDiGcD,organic,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x780,Chrome,Russia,Yekaterinburg
+sample_0456,client_0456,2021-09-26,12:00:00,1,RmEBuqrriAfAVsLQQmhk,cpc,kVOrIKZFrEYGvixPclal,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Kazan
+sample_0457,client_0457,2021-09-26,13:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,360x800,Chrome,Russia,Golitsyno
+sample_0458,client_0458,2021-09-26,14:00:00,2,RmEBuqrriAfAVsLQQmhk,cpc,KgicpPxiEQfzPlPwQZJq,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Kazan
+sample_0459,client_0459,2021-09-26,14:00:00,1,RmEBuqrriAfAVsLQQmhk,cpc,VBmazutCflYumtDHrQYe,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,393x851,Chrome,Russia,Pushkino
+sample_0460,client_0460,2021-09-26,16:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x846,Chrome,Russia,Moscow
+sample_0461,client_0461,2021-09-26,17:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,PkybGvWbaqORmxjNunqZ,,mobile,,Xiaomi,,360x800,Chrome,Russia,Moscow
+sample_0462,client_0462,2021-09-26,20:00:00,2,RmEBuqrriAfAVsLQQmhk,cpc,VBmazutCflYumtDHrQYe,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x699,Chrome,Russia,Moscow
+sample_0463,client_0463,2021-09-26,23:00:00,2,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,375x812,Safari,Russia,Moscow
+sample_0464,client_0464,2021-09-27,19:00:00,1,RmEBuqrriAfAVsLQQmhk,cpc,KgicpPxiEQfzPlPwQZJq,JNHcPlZPxEMWDnRiyoBf,,tablet,,Sony,,600x960,Chrome,Russia,Saint Petersburg
+sample_0465,client_0465,2021-09-27,20:00:00,1,RmEBuqrriAfAVsLQQmhk,cpc,kVOrIKZFrEYGvixPclal,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x640,Chrome,Russia,Moscow
+sample_0466,client_0466,2021-09-28,14:00:00,2,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1440x900,Chrome,Ireland,Dublin
+sample_0467,client_0467,2021-09-29,22:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,LwJZxKuWmvOhPsaCeRjG,,,mobile,,Apple,,375x812,Safari,Russia,Omsk
+sample_0468,client_0468,2021-09-30,10:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,390x844,Safari,Russia,Krasnodar
+sample_0469,client_0469,2021-09-30,14:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x667,Safari (in-app),Russia,Vladimir
+sample_0470,client_0470,2021-09-30,14:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,360x640,Chrome,Russia,Samara
+sample_0471,client_0471,2021-09-30,14:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x892,Chrome,Russia,Khabarovsk
+sample_0472,client_0472,2021-09-30,14:00:00,1,bByPQxmDaMXgpHeypKSM,referral,pQhDyEDSvgnXNvMXPAhy,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,375x813,Android Webview,Russia,Saint Petersburg
+sample_0473,client_0473,2021-09-30,15:00:00,1,ISrKoXQCxqqYvAZICvjs,blogger_stories,pQhDyEDSvgnXNvMXPAhy,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x915,Android Webview,Russia,Voronezh
+sample_0474,client_0474,2021-09-30,16:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Realme,,360x800,Android Webview,Russia,Saint Petersburg
+sample_0475,client_0475,2021-09-30,19:00:00,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,390x844,Safari,Russia,Moscow
+sample_0476,client_0476,2021-09-30,19:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,(not set),,393x873,Android Webview,Russia,Kazan
+sample_0477,client_0477,2021-10-01,08:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Saint Petersburg
+sample_0478,client_0478,2021-10-01,10:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x798,Chrome,Russia,Nizhny Novgorod
+sample_0479,client_0479,2021-10-01,11:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x780,Chrome,Russia,Irkutsk
+sample_0480,client_0480,2021-10-01,13:00:00,2,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,390x844,Safari,Russia,Moscow
+sample_0481,client_0481,2021-10-01,14:00:00,1,BHcvLfOaCWvWTykYqHVe,cpc,,,,desktop,,,,2560x1440,Chrome,Russia,Moscow
+sample_0482,client_0482,2021-10-01,17:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,LwJZxKuWmvOhPsaCeRjG,,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0483,client_0483,2021-10-02,10:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x667,Safari,Kyrgyzstan,Bishkek
+sample_0484,client_0484,2021-10-02,14:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,2048x1152,Safari,Russia,Yekaterinburg
+sample_0485,client_0485,2021-10-02,20:00:00,5,aXQzDWsJuGXeBXexNHjc,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Russia,Moscow
+sample_0486,client_0486,2021-10-03,01:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x873,Chrome,Russia,Ivanteyevka
+sample_0487,client_0487,2021-10-03,14:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Chelyabinsk
+sample_0488,client_0488,2021-10-03,20:00:00,2,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,320x568,Safari,Russia,Moscow
+sample_0489,client_0489,2021-10-03,22:00:00,4,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0490,client_0490,2021-10-03,22:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,320x694,Chrome,Russia,Moscow
+sample_0491,client_0491,2021-10-04,09:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Glazov
+sample_0492,client_0492,2021-10-04,13:00:00,16,kjsLglQLzykiRbcDiGcD,cpc,LwJZxKuWmvOhPsaCeRjG,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x869,Chrome,Russia,Moscow
+sample_0493,client_0493,2021-10-04,13:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Blackview,,360x760,Chrome,Russia,Saint Petersburg
+sample_0494,client_0494,2021-10-04,18:00:00,2,kjsLglQLzykiRbcDiGcD,cpc,,,,desktop,,,,2560x1440,Chrome,Russia,Moscow
+sample_0495,client_0495,2021-10-04,19:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,360x740,Chrome,Russia,Moscow
+sample_0496,client_0496,2021-10-04,21:00:00,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,tablet,,Xiaomi,,960x600,Chrome,Russia,Krasnodar
+sample_0497,client_0497,2021-10-05,07:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x720,Chrome,Russia,Tula
+sample_0498,client_0498,2021-10-05,10:00:00,5,BHcvLfOaCWvWTykYqHVe,cpc,,,,mobile,,Apple,,390x844,Safari,Russia,Moscow
+sample_0499,client_0499,2021-10-05,10:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x915,Chrome,Russia,Grozny
+sample_0500,client_0500,2021-10-05,16:00:00,3,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x786,Chrome,Russia,Mytishchi
+sample_0501,client_0501,2021-10-05,23:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Krasnodar
+sample_0502,client_0502,2021-10-06,06:00:00,1,BHcvLfOaCWvWTykYqHVe,cpc,,,,desktop,,,,1920x1080,Chrome,Russia,Novosibirsk
+sample_0503,client_0503,2021-10-06,12:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,385x854,Chrome,Russia,Kursk
+sample_0504,client_0504,2021-10-06,21:00:00,11,kjsLglQLzykiRbcDiGcD,cpc,XHNUiSKKGTEpSAlaVMFQ,,,mobile,,Samsung,,412x892,Chrome,Russia,Moscow
+sample_0505,client_0505,2021-10-06,22:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,RoDitORHdzGfGhNCyEMy,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Chrome,Russia,Moscow
+sample_0506,client_0506,2021-10-06,23:00:00,4,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,(not set),,412x823,Chrome,Russia,Kotelniki
+sample_0507,client_0507,2021-10-07,12:00:00,3,kjsLglQLzykiRbcDiGcD,cpc,LwJZxKuWmvOhPsaCeRjG,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,2560x1080,Chrome,Russia,Mozhaysk
+sample_0508,client_0508,2021-10-07,13:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,SgIUDYUKnyWHVowUOqid,JNHcPlZPxEMWDnRiyoBf,,mobile,,Cubot,,360x800,Chrome,Russia,Chelyabinsk
+sample_0509,client_0509,2021-10-07,14:00:00,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1920x1080,Chrome,Russia,(not set)
+sample_0510,client_0510,2021-10-07,22:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Saint Petersburg
+sample_0511,client_0511,2021-10-08,09:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,,desktop,,,,1920x1080,Chrome,Russia,Moscow
+sample_0512,client_0512,2021-10-08,12:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x720,Chrome,Russia,Chelyabinsk
+sample_0513,client_0513,2021-10-08,13:00:00,8,QxAxdyPLuQMEcrdZWdWb,cpc,vRLTQQKAsFQMxbcHGPhu,,,mobile,,Samsung,,412x869,Chrome,Russia,Moscow
+sample_0514,client_0514,2021-10-08,19:00:00,4,kjsLglQLzykiRbcDiGcD,organic,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Yekaterinburg
+sample_0515,client_0515,2021-10-08,21:00:00,3,kjsLglQLzykiRbcDiGcD,cpc,XHNUiSKKGTEpSAlaVMFQ,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Russia,Moscow
+sample_0516,client_0516,2021-10-09,09:00:00,1,QxAxdyPLuQMEcrdZWdWb,cpc,vRLTQQKAsFQMxbcHGPhu,,,mobile,,Samsung,,320x872,Android Webview,Russia,Moscow
+sample_0517,client_0517,2021-10-09,09:00:00,3,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,375x812,Safari,Russia,Moscow
+sample_0518,client_0518,2021-10-09,11:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,SgIUDYUKnyWHVowUOqid,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x736,Safari,Russia,Grozny
+sample_0519,client_0519,2021-10-09,12:00:00,1,QxAxdyPLuQMEcrdZWdWb,cpc,vRLTQQKAsFQMxbcHGPhu,,,mobile,,Apple,,375x812,Safari (in-app),Russia,Moscow
+sample_0520,client_0520,2021-10-09,18:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Russia,Saint Petersburg
+sample_0521,client_0521,2021-10-09,21:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,OPPO,,360x800,Chrome,Russia,Chelyabinsk
+sample_0522,client_0522,2021-10-10,01:00:00,1,QxAxdyPLuQMEcrdZWdWb,cpc,GWZGdHKPgmZPNPwkJshU,,,mobile,,Apple,,414x896,Safari (in-app),Russia,Saint Petersburg
+sample_0523,client_0523,2021-10-10,02:00:00,2,bByPQxmDaMXgpHeypKSM,referral,XHNUiSKKGTEpSAlaVMFQ,,,mobile,,Xiaomi,,393x873,Chrome,Russia,Moscow
+sample_0524,client_0524,2021-10-10,09:00:00,2,ZpYIoDJMcFzVoPFsHGJL,banner,SgIUDYUKnyWHVowUOqid,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Balashikha
+sample_0525,client_0525,2021-10-10,11:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,XHNUiSKKGTEpSAlaVMFQ,,,mobile,,Xiaomi,,393x851,Chrome,Russia,(not set)
+sample_0526,client_0526,2021-10-10,17:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,360x800,Chrome,Russia,Naro-Fominsk
+sample_0527,client_0527,2021-10-10,20:00:00,1,kjsLglQLzykiRbcDiGcD,cpc,nSReTmyFtbSjlPrTKoaX,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1536x864,Chrome,Russia,Moscow
+sample_0528,client_0528,2021-10-10,23:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,SgIUDYUKnyWHVowUOqid,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x873,Chrome,Russia,Kursk
+sample_0529,client_0529,2021-10-11,01:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,,desktop,,,,1093x615,Opera,Russia,Saint Petersburg
+sample_0530,client_0530,2021-10-11,10:00:00,1,QxAxdyPLuQMEcrdZWdWb,cpc,GWZGdHKPgmZPNPwkJshU,,,mobile,,Apple,,414x896,Safari (in-app),Russia,Saint Petersburg
+sample_0531,client_0531,2021-10-11,11:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,2000x2000,Android Runtime,Ireland,Dublin
+sample_0532,client_0532,2021-10-11,11:00:00,1,kjsLglQLzykiRbcDiGcD,organic,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,360x800,Chrome,Russia,Moscow
+sample_0533,client_0533,2021-10-11,14:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x699,Chrome,Russia,Moscow
+sample_0534,client_0534,2021-10-11,15:00:00,1,BHcvLfOaCWvWTykYqHVe,cpc,,,,mobile,,Apple,,390x844,Safari,Russia,Moscow
+sample_0535,client_0535,2021-10-11,17:00:00,1,QxAxdyPLuQMEcrdZWdWb,cpc,vRLTQQKAsFQMxbcHGPhu,,,mobile,,Umidigi,,360x780,Android Webview,Russia,Balashikha
+sample_0536,client_0536,2021-10-12,00:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,,mobile,,Huawei,,320x676,Chrome,Russia,Moscow
+sample_0537,client_0537,2021-10-12,12:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1440x900,Safari,Russia,Moscow
+sample_0538,client_0538,2021-10-12,13:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x915,Chrome,Russia,Moscow
+sample_0539,client_0539,2021-10-12,18:00:00,35,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,2560x1440,Chrome,Russia,Moscow
+sample_0540,client_0540,2021-10-12,20:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,320x640,Chrome,Russia,Krasnodar
+sample_0541,client_0541,2021-10-12,20:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x780,Chrome,Russia,Kostroma
+sample_0542,client_0542,2021-10-12,21:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x873,Chrome,Russia,Stavropol
+sample_0543,client_0543,2021-10-13,00:00:00,4,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,384x854,Chrome,Russia,Fryazino
+sample_0544,client_0544,2021-10-13,01:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x800,Chrome,Russia,Saint Petersburg
+sample_0545,client_0545,2021-10-13,10:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Realme,,424x942,Chrome,Russia,Saint Petersburg
+sample_0546,client_0546,2021-10-13,10:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,,mobile,,(not set),,360x800,Android Webview,Russia,Moscow
+sample_0547,client_0547,2021-10-13,13:00:00,2,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Saratov
+sample_0548,client_0548,2021-10-13,14:00:00,3,BHcvLfOaCWvWTykYqHVe,cpc,,,,mobile,,Apple,,375x812,Safari,Russia,Moscow
+sample_0549,client_0549,2021-10-13,14:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0550,client_0550,2021-10-13,18:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1440x900,Chrome,Russia,Moscow
+sample_0551,client_0551,2021-10-14,07:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,SgIUDYUKnyWHVowUOqid,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,390x844,Safari,Russia,Oryol
+sample_0552,client_0552,2021-10-14,10:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1366x768,Chrome,Russia,Saint Petersburg
+sample_0553,client_0553,2021-10-14,12:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,SgIUDYUKnyWHVowUOqid,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x667,Safari,Russia,Kazan
+sample_0554,client_0554,2021-10-14,17:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,384x824,Chrome,Russia,Krasnoyarsk
+sample_0555,client_0555,2021-10-14,19:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,,mobile,,Samsung,,360x640,Samsung Internet,Russia,Moscow
+sample_0556,client_0556,2021-10-14,20:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x780,Chrome,Russia,Krasnodar
+sample_0557,client_0557,2021-10-14,22:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,,mobile,,Huawei,,360x780,Chrome,Russia,Moscow
+sample_0558,client_0558,2021-10-15,12:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,360x640,Chrome,Russia,Domodedovo
+sample_0559,client_0559,2021-10-15,19:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x667,Safari,Russia,Saint Petersburg
+sample_0560,client_0560,2021-10-16,14:00:00,2,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,,mobile,,Huawei,,360x780,Chrome,Russia,Saint Petersburg
+sample_0561,client_0561,2021-10-16,14:00:00,71,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,desktop,,,,1366x768,YaBrowser,Russia,Voronezh
+sample_0562,client_0562,2021-10-16,15:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Russia,(not set)
+sample_0563,client_0563,2021-10-16,23:00:00,1,QxAxdyPLuQMEcrdZWdWb,cpc,vRLTQQKAsFQMxbcHGPhu,,,mobile,,Huawei,,392x800,Android Webview,Russia,Moscow
+sample_0564,client_0564,2021-10-17,06:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x780,YaBrowser,Russia,Perm
+sample_0565,client_0565,2021-10-17,13:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,OPPO,,360x760,Chrome,Russia,Tula
+sample_0566,client_0566,2021-10-17,19:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x780,Chrome,Russia,Rostov-on-Don
+sample_0567,client_0567,2021-10-17,20:00:00,3,kjsLglQLzykiRbcDiGcD,cpc,,,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0568,client_0568,2021-10-17,22:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0569,client_0569,2021-10-18,09:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Moscow
+sample_0570,client_0570,2021-10-18,11:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Voronezh
+sample_0571,client_0571,2021-10-18,15:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,SgIUDYUKnyWHVowUOqid,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,390x844,Safari,Russia,Moscow
+sample_0572,client_0572,2021-10-18,18:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,SgIUDYUKnyWHVowUOqid,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,375x812,Safari,Sweden,Huddinge
+sample_0573,client_0573,2021-10-18,20:00:00,1,QxAxdyPLuQMEcrdZWdWb,cpc,ggnicnIiTUFLsyaNdcJJ,,,mobile,,Xiaomi,,2000x2000,Chrome,United States,Prineville
+sample_0574,client_0574,2021-10-19,12:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Umidigi,,360x760,Chrome,Russia,(not set)
+sample_0575,client_0575,2021-10-19,13:00:00,1,QxAxdyPLuQMEcrdZWdWb,cpc,vRLTQQKAsFQMxbcHGPhu,,,mobile,,Samsung,,412x869,Android Webview,Russia,Moscow
+sample_0576,client_0576,2021-10-19,15:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x800,Chrome,Russia,Stavropol
+sample_0577,client_0577,2021-10-19,23:00:00,1,nSReTmyFtbSjlPrTKoaX,banner,BVKxkCOHKUOvkpbrLMgZ,JNHcPlZPxEMWDnRiyoBf,,mobile,,Huawei,,360x780,Chrome,Russia,Sochi
+sample_0578,client_0578,2021-10-20,05:00:00,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,,mobile,,(not set),,320x640,Chrome,Russia,Saint Petersburg
+sample_0579,client_0579,2021-10-21,11:00:00,1,QxAxdyPLuQMEcrdZWdWb,cpc,JajANoFxoqXfKRNBUhzx,,,mobile,,Apple,,2000x2000,Safari,Sweden,Lulea
+sample_0580,client_0580,2021-10-21,11:00:00,2,QxAxdyPLuQMEcrdZWdWb,cpc,MmyPhaRZgQtGHEnQbdUx,,,desktop,,,,2000x2000,Chrome,Ireland,Dublin
+sample_0581,client_0581,2021-10-21,12:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x736,Safari,Russia,Novosibirsk
+sample_0582,client_0582,2021-10-21,17:00:00,1,ZpYIoDJMcFzVoPFsHGJL,push,YDIkQmcjRkpdxGbLLtNN,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,320x694,Chrome,Russia,Moscow
+sample_0583,client_0583,2021-10-22,08:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Apple,,414x896,Safari,Russia,Yaroslavl
+sample_0584,client_0584,2021-10-22,11:00:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,,mobile,,Samsung,,412x892,Chrome,Russia,Grozny
+sample_0585,client_0585,2021-10-22,17:00:00,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,,mobile,,Xiaomi,,393x851,Chrome,Russia,Yekaterinburg
+sample_0586,client_0586,2021-10-23,09:38:26,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,OPPO,,424x942,YaBrowser,Thailand,Bangkok
+sample_0587,client_0587,2021-10-23,15:11:29,1,ZpYIoDJMcFzVoPFsHGJL,banner,SgIUDYUKnyWHVowUOqid,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x667,Safari,Russia,Krasnoyarsk
+sample_0588,client_0588,2021-10-23,18:05:23,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x896,Safari,Russia,Moscow
+sample_0589,client_0589,2021-10-23,19:02:05,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Linux,,,1920x1080,Chrome,Russia,Veliky Novgorod
+sample_0590,client_0590,2021-10-23,20:41:42,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x667,Safari,Russia,Ryazan
+sample_0591,client_0591,2021-10-24,14:16:45,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x667,Safari,Russia,Oryol
+sample_0592,client_0592,2021-10-24,14:17:01,2,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x896,Safari,Russia,Volgograd
+sample_0593,client_0593,2021-10-24,17:32:45,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x786,Chrome,Russia,Yekaterinburg
+sample_0594,client_0594,2021-10-24,22:31:15,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,360x640,Chrome,Russia,Penza
+sample_0595,client_0595,2021-10-24,22:37:52,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,1093x615,YaBrowser,Russia,Saint Petersburg
+sample_0596,client_0596,2021-10-25,12:29:34,1,kjsLglQLzykiRbcDiGcD,cpc,bJJuEXRheRIxXEaYIXqM,,ZFBQHXFgMMkPoPvQanhb,mobile,iOS,Apple,,390x844,Safari,Russia,Saint Petersburg
+sample_0597,client_0597,2021-10-25,12:32:03,1,bByPQxmDaMXgpHeypKSM,referral,IKQsApKuPmZqqmhieEgf,sMBIidTLSrYkjsCEvwht,ANoZJgYuPrWNkAAchryx,desktop,Windows,,,1536x864,Chrome,Russia,Krasnoyarsk
+sample_0598,client_0598,2021-10-25,19:40:08,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x667,Safari,Russia,Moscow
+sample_0599,client_0599,2021-10-26,05:47:01,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x667,Safari,Russia,Irkutsk
+sample_0600,client_0600,2021-10-26,10:07:16,1,BHcvLfOaCWvWTykYqHVe,cpc,,,mpFygdnCzMsVlLWOpHBn,desktop,Windows,,,1920x1080,Chrome,Russia,Moscow
+sample_0601,client_0601,2021-10-26,11:15:06,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x800,Chrome,Russia,Yaroslavl
+sample_0602,client_0602,2021-10-26,12:12:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x896,Safari,Russia,Moscow
+sample_0603,client_0603,2021-10-26,12:25:28,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,RkpOyeEPgcMBSDuHLQcj,mobile,Android,Xiaomi,,393x873,Chrome,Russia,Mytishchi
+sample_0604,client_0604,2021-10-26,16:11:19,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x667,Safari,Russia,Moscow
+sample_0605,client_0605,2021-10-26,18:19:55,6,BHcvLfOaCWvWTykYqHVe,cpc,,,TxKUcPpthBDPieTGmVhx,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Saint Petersburg
+sample_0606,client_0606,2021-10-26,19:47:40,2,kjsLglQLzykiRbcDiGcD,cpc,,,HKFjmDlYppkKqsWPogJt,mobile,iOS,Apple,,390x844,Safari,Russia,Moscow
+sample_0607,client_0607,2021-10-27,16:56:37,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x869,Chrome,Russia,Vladivostok
+sample_0608,client_0608,2021-10-28,06:24:19,1,ZpYIoDJMcFzVoPFsHGJL,banner,SgIUDYUKnyWHVowUOqid,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,384x854,Chrome,Russia,Chelyabinsk
+sample_0609,client_0609,2021-10-28,23:30:32,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x667,Safari,Russia,Saint Petersburg
+sample_0610,client_0610,2021-10-29,12:59:17,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x770,Chrome,Russia,Yekaterinburg
+sample_0611,client_0611,2021-10-29,15:09:28,1,jaSOmLICuBzCFqHfBdRg,email,bxOTvPtyGSdUrbwoXCPO,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x812,Safari,Russia,Irkutsk
+sample_0612,client_0612,2021-10-29,18:25:07,1,jaSOmLICuBzCFqHfBdRg,email,bxOTvPtyGSdUrbwoXCPO,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,384x854,Samsung Internet,Russia,Moscow
+sample_0613,client_0613,2021-10-29,18:28:10,1,jaSOmLICuBzCFqHfBdRg,email,bxOTvPtyGSdUrbwoXCPO,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,1920x1080,YaBrowser,Russia,Izhevsk
+sample_0614,client_0614,2021-10-29,23:31:32,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x896,Safari,Russia,Moscow
+sample_0615,client_0615,2021-10-30,15:46:32,2,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,iSzmhGyLDmNnqrhqDvaJ,desktop,Windows,,,3440x1440,Chrome,Russia,Nakhabino
+sample_0616,client_0616,2021-10-30,17:12:17,1,ZpYIoDJMcFzVoPFsHGJL,banner,SgIUDYUKnyWHVowUOqid,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,360x740,Chrome,Russia,Irkutsk
+sample_0617,client_0617,2021-10-31,02:37:00,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,YaBrowser,Russia,Ufa
+sample_0618,client_0618,2021-10-31,08:34:23,1,jaSOmLICuBzCFqHfBdRg,email,bxOTvPtyGSdUrbwoXCPO,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x812,Safari,Russia,Nizhny Novgorod
+sample_0619,client_0619,2021-10-31,11:13:15,2,QxAxdyPLuQMEcrdZWdWb,cpc,JdLDXLLzKXZlxBJrDTXh,,WaWpHWszYFymgCSbpGVL,mobile,Android,Samsung,,412x915,Android Webview,Russia,Vladimir
+sample_0620,client_0620,2021-10-31,19:35:25,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,Chrome,Russia,Barnaul
+sample_0621,client_0621,2021-10-31,22:38:53,1,kjsLglQLzykiRbcDiGcD,cpc,CdkIkBrvEVomSgvHzYvj,lXYxbSFluucyYXDQeIHX,tzIeQUUHahhBuEkJqDVp,desktop,Windows,,,1536x864,Chrome,Russia,Podolsk
+sample_0622,client_0622,2021-11-01,09:28:41,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,RkpOyeEPgcMBSDuHLQcj,mobile,Android,Huawei,,640x360,Chrome,Russia,Moscow
+sample_0623,client_0623,2021-11-01,13:24:40,1,kjsLglQLzykiRbcDiGcD,cpc,KGpIIoFhRfLgffkknBkK,JNHcPlZPxEMWDnRiyoBf,,mobile,iOS,Apple,,390x844,Safari,Germany,(not set)
+sample_0624,client_0624,2021-11-01,13:57:14,8,BHcvLfOaCWvWTykYqHVe,cpc,,,tVtbIKrPSOvrXLCznVVe,desktop,Windows,,,1280x1024,Chrome,Russia,Moscow
+sample_0625,client_0625,2021-11-01,21:22:40,1,QxAxdyPLuQMEcrdZWdWb,cpc,TzXEvSoFiirteePaCzeY,,MlfnVvZHUUeWFenFMWmy,mobile,iOS,Apple,,2000x2000,Safari,United States,Altoona
+sample_0626,client_0626,2021-11-01,21:23:18,1,QxAxdyPLuQMEcrdZWdWb,cpc,TzXEvSoFiirteePaCzeY,,clSPQqYMrdLkWYOWnCzj,mobile,iOS,Apple,,2000x2000,Safari,Sweden,Lulea
+sample_0627,client_0627,2021-11-02,08:59:03,1,ZpYIoDJMcFzVoPFsHGJL,banner,SgIUDYUKnyWHVowUOqid,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,360x800,Chrome,Uzbekistan,Tashkent
+sample_0628,client_0628,2021-11-02,14:20:07,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,1920x1080,Chrome,Russia,Tula
+sample_0629,client_0629,2021-11-02,14:31:16,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,360x760,Chrome,Russia,Yekaterinburg
+sample_0630,client_0630,2021-11-02,17:12:26,2,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,360x800,Chrome,Russia,Kazan
+sample_0631,client_0631,2021-11-03,11:54:45,2,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Linux,,,1500x1000,Mozilla Compatible Agent,Russia,Saint Petersburg
+sample_0632,client_0632,2021-11-03,12:12:37,1,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,Chrome,Russia,Grozny
+sample_0633,client_0633,2021-11-04,00:23:28,1,kjsLglQLzykiRbcDiGcD,cpc,LwJZxKuWmvOhPsaCeRjG,,QRSrGMRlRfLHqzjtnKsP,mobile,iOS,Apple,,375x667,Safari,Russia,Moscow
+sample_0634,client_0634,2021-11-04,11:38:12,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,DOOGEE,,360x800,Chrome,Russia,Ulan-Ude
+sample_0635,client_0635,2021-11-04,22:20:41,1,SzZERoLMmrEUEhDaYcyN,cpc,,,,mobile,iOS,Apple,,414x896,Safari (in-app),Russia,Moscow
+sample_0636,client_0636,2021-11-05,13:26:28,25,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,RkpOyeEPgcMBSDuHLQcj,desktop,Windows,,,1920x1080,YaBrowser,Russia,Podolsk
+sample_0637,client_0637,2021-11-05,15:46:44,1,ISrKoXQCxqqYvAZICvjs,smm,,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x812,Safari (in-app),Russia,Saint Petersburg
+sample_0638,client_0638,2021-11-05,15:51:04,6,BHcvLfOaCWvWTykYqHVe,cpc,,,JbyYOOELEiGGRhJbXfaq,mobile,Android,Samsung,,412x915,Chrome,Russia,Moscow
+sample_0639,client_0639,2021-11-05,23:29:21,4,kjsLglQLzykiRbcDiGcD,cpc,,,QYfbqJXuLdJGfOSFgZOs,mobile,Android,Google,,393x851,Chrome,Russia,Saint Petersburg
+sample_0640,client_0640,2021-11-06,03:09:30,1,ZpYIoDJMcFzVoPFsHGJL,banner,SgIUDYUKnyWHVowUOqid,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x812,Safari,Russia,Moscow
+sample_0641,client_0641,2021-11-06,09:24:34,1,SzZERoLMmrEUEhDaYcyN,cpc,,,,mobile,iOS,Apple,,375x667,Safari (in-app),Russia,Moscow
+sample_0642,client_0642,2021-11-06,10:29:03,4,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,428x926,Safari,Russia,Saint Petersburg
+sample_0643,client_0643,2021-11-06,18:28:26,1,jaSOmLICuBzCFqHfBdRg,email,bxOTvPtyGSdUrbwoXCPO,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Macintosh,,,1440x900,Safari,Russia,Krasnodar
+sample_0644,client_0644,2021-11-06,20:04:46,1,bByPQxmDaMXgpHeypKSM,referral,IKQsApKuPmZqqmhieEgf,IwBedorwDIzxDRIZUTNo,opEZzhCrCCxqjKDmOcMK,desktop,Windows,,,1366x768,Chrome,Russia,Moscow
+sample_0645,client_0645,2021-11-07,08:37:04,5,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,UKNBOHebRIIsQRsjNKay,mobile,Android,Samsung,,412x915,Samsung Internet,Russia,Smolensk
+sample_0646,client_0646,2021-11-07,17:16:15,2,kjsLglQLzykiRbcDiGcD,cpc,,,vAUKqgVpFlghMFvCyBIl,mobile,iOS,Apple,,428x926,Safari,Russia,Moscow
+sample_0647,client_0647,2021-11-07,17:36:39,1,SzZERoLMmrEUEhDaYcyN,cpc,,,,mobile,iOS,Apple,,414x896,Safari (in-app),Russia,Moscow
+sample_0648,client_0648,2021-11-07,18:55:34,1,SzZERoLMmrEUEhDaYcyN,cpc,,,,mobile,iOS,Apple,,428x926,Safari (in-app),Russia,Moscow
+sample_0649,client_0649,2021-11-08,11:54:32,3,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,tablet,Android,Huawei,,600x960,YaBrowser,Russia,Seversk
+sample_0650,client_0650,2021-11-08,14:15:53,21,ZpYIoDJMcFzVoPFsHGJL,banner,gecBYcKZCPMcVYdSSzKP,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x873,Chrome,Russia,Moscow
+sample_0651,client_0651,2021-11-08,16:29:59,2,BHcvLfOaCWvWTykYqHVe,cpc,,,JajANoFxoqXfKRNBUhzx,desktop,Windows,,,1280x720,Chrome,Russia,Moscow
+sample_0652,client_0652,2021-11-08,17:51:10,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x812,Safari,Russia,Smolensk
+sample_0653,client_0653,2021-11-08,21:29:32,2,bByPQxmDaMXgpHeypKSM,app,LTuZkdKfxRGVceoWkVyg,FkiRXDLOWtzVfvhEkhNo,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Saint Petersburg
+sample_0654,client_0654,2021-11-09,09:37:27,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x800,Chrome,Russia,Kemerovo
+sample_0655,client_0655,2021-11-09,09:42:56,1,kjsLglQLzykiRbcDiGcD,cpc,jvsVVQVKRfBIqBDBuCkq,JNHcPlZPxEMWDnRiyoBf,TTdDpTIUjOpzCSWKLaVY,mobile,iOS,Apple,,375x667,Safari,Russia,Saint Petersburg
+sample_0656,client_0656,2021-11-09,20:20:18,2,kjsLglQLzykiRbcDiGcD,cpc,,,ZSDLIJSjXvtQGZkIUmUP,mobile,iOS,Apple,,390x844,Safari,Russia,Moscow
+sample_0657,client_0657,2021-11-10,06:19:56,2,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Tula
+sample_0658,client_0658,2021-11-10,09:21:58,6,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x812,Safari,Russia,Moscow
+sample_0659,client_0659,2021-11-10,12:15:45,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,Chrome,Russia,Moscow
+sample_0660,client_0660,2021-11-10,14:13:18,2,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,UKNBOHebRIIsQRsjNKay,mobile,iOS,Apple,,414x896,Safari,Russia,Samara
+sample_0661,client_0661,2021-11-10,15:40:18,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Ufa
+sample_0662,client_0662,2021-11-10,18:15:31,1,aXQzDWsJuGXeBXexNHjc,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,1920x1080,Opera,Russia,Moscow
+sample_0663,client_0663,2021-11-10,18:44:09,1,iNFgfQPqHPBuvGCYtrQE,smm,,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x736,Safari,Russia,Moscow
+sample_0664,client_0664,2021-11-10,19:25:07,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Asus,,360x720,Chrome,Russia,Samara
+sample_0665,client_0665,2021-11-11,00:21:47,1,bByPQxmDaMXgpHeypKSM,app,LTuZkdKfxRGVceoWkVyg,FkiRXDLOWtzVfvhEkhNo,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x736,Safari,Russia,Moscow
+sample_0666,client_0666,2021-11-11,00:22:23,1,ZpYIoDJMcFzVoPFsHGJL,banner,ascPqxFuFewWWZSVMpkh,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Vivo,JAIKWwxRffFOXQcfGTVi,360x772,Chrome,Russia,Moscow
+sample_0667,client_0667,2021-11-11,00:39:37,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x812,Safari,Russia,Krasnodar
+sample_0668,client_0668,2021-11-11,01:37:08,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,rUCkqFnIxCaJcjmMyyMC,mobile,Android,OPPO,,360x800,Chrome,Russia,(not set)
+sample_0669,client_0669,2021-11-11,04:13:38,5,kjsLglQLzykiRbcDiGcD,organic,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,UKNBOHebRIIsQRsjNKay,mobile,iOS,Apple,,375x812,Safari,Russia,Moscow
+sample_0670,client_0670,2021-11-11,07:18:55,4,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x873,Chrome,Russia,Saint Petersburg
+sample_0671,client_0671,2021-11-11,16:19:46,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,2560x1441,Chrome,Russia,Moscow
+sample_0672,client_0672,2021-11-11,20:00:26,1,faqsogjxCvbseFqupueU,banner,dZqEgyoxhtbeLFMtnnVR,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,360x800,Chrome,Russia,Kazan
+sample_0673,client_0673,2021-11-11,21:37:30,1,faqsogjxCvbseFqupueU,banner,dZqEgyoxhtbeLFMtnnVR,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,320x569,Chrome,Russia,Surgut
+sample_0674,client_0674,2021-11-11,23:24:26,1,kjsLglQLzykiRbcDiGcD,cpc,nSReTmyFtbSjlPrTKoaX,JNHcPlZPxEMWDnRiyoBf,gDBGzjFKYabGgSPZvrDH,desktop,Macintosh,,,1440x900,Chrome,Russia,Moscow
+sample_0675,client_0675,2021-11-12,11:12:03,1,BHcvLfOaCWvWTykYqHVe,cpc,,,ITfrGJNwVsHBGJMAKoct,mobile,Android,Xiaomi,,393x851,YaBrowser,Russia,Kotelniki
+sample_0676,client_0676,2021-11-12,11:15:51,1,ZpYIoDJMcFzVoPFsHGJL,banner,ascPqxFuFewWWZSVMpkh,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,360x720,Chrome,Russia,Moscow
+sample_0677,client_0677,2021-11-12,13:56:27,1,bByPQxmDaMXgpHeypKSM,referral,BtHktUgMgEVIjKWdCrLZ,xZYEHLyYdGXkJENJpTtu,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,1920x1080,Chrome,Russia,Moscow
+sample_0678,client_0678,2021-11-12,15:39:18,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,COtBsnAzfZyRVtvDlhnW,mobile,Android,Xiaomi,,360x760,Chrome,Russia,Saint Petersburg
+sample_0679,client_0679,2021-11-12,17:34:46,1,ISrKoXQCxqqYvAZICvjs,smm,,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x896,Safari (in-app),Russia,Moscow
+sample_0680,client_0680,2021-11-12,20:28:50,2,nSReTmyFtbSjlPrTKoaX,banner,LUlvACDKkkOkiSuiwaBs,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x780,Chrome,Russia,Moscow
+sample_0681,client_0681,2021-11-12,22:13:18,1,ISrKoXQCxqqYvAZICvjs,smm,,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x896,Safari (in-app),Russia,Moscow
+sample_0682,client_0682,2021-11-13,02:28:24,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x780,Chrome,Russia,Moscow
+sample_0683,client_0683,2021-11-13,02:30:21,1,BHcvLfOaCWvWTykYqHVe,cpc,,,ZNhSIPchlbnKwZWcsKzz,mobile,iOS,Apple,,375x667,YaBrowser,Russia,Moscow
+sample_0684,client_0684,2021-11-13,06:25:57,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x800,Chrome,Russia,Irkutsk
+sample_0685,client_0685,2021-11-13,09:25:20,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,360x800,Chrome,Russia,Chelyabinsk
+sample_0686,client_0686,2021-11-13,09:45:19,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,BmOOOIoWGHEfxEfoUezs,mobile,Android,Huawei,,720x360,Chrome,Russia,Vidnoye
+sample_0687,client_0687,2021-11-13,17:19:56,4,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,COtBsnAzfZyRVtvDlhnW,desktop,Windows,,,1920x1080,Chrome,Russia,Saint Petersburg
+sample_0688,client_0688,2021-11-13,19:13:39,1,kjsLglQLzykiRbcDiGcD,cpc,XHNUiSKKGTEpSAlaVMFQ,JNHcPlZPxEMWDnRiyoBf,hAmNSZmQkKQKAjZEGlgb,mobile,Android,Nokia,WYZTTdhWPjttFYmcGjBP,320x712,Chrome,Russia,Moscow
+sample_0689,client_0689,2021-11-13,21:54:19,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,COtBsnAzfZyRVtvDlhnW,mobile,Android,Xiaomi,,360x640,Chrome,Russia,Saint Petersburg
+sample_0690,client_0690,2021-11-13,23:48:46,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,IGUCNvHlhfHpROGclCit,mobile,Android,Xiaomi,,851x393,Chrome,Russia,Saint Petersburg
+sample_0691,client_0691,2021-11-14,12:39:21,1,kjsLglQLzykiRbcDiGcD,cpc,jvsVVQVKRfBIqBDBuCkq,JNHcPlZPxEMWDnRiyoBf,XEayFbemrPYbxFeNbxif,mobile,Android,Samsung,,412x846,Chrome,Russia,Moscow
+sample_0692,client_0692,2021-11-14,12:55:35,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,320x658,Chrome,Russia,Samara
+sample_0693,client_0693,2021-11-14,13:57:53,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,Chrome,Russia,Krasnodar
+sample_0694,client_0694,2021-11-14,15:53:32,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x896,Safari,Russia,Chita
+sample_0695,client_0695,2021-11-14,16:44:16,1,vFcAhRxLfOWKhvxjELkx,organic,okTXSMadDkjvntEHzIjp,LLfCasrxQzJIyuldcuWy,aXQzDWsJuGXeBXexNHjc,desktop,Macintosh,,,1440x900,Chrome,Russia,Moscow
+sample_0696,client_0696,2021-11-14,17:46:10,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,rUCkqFnIxCaJcjmMyyMC,mobile,Android,Xiaomi,,393x851,YaBrowser,Russia,Moscow
+sample_0697,client_0697,2021-11-14,23:58:47,1,vFcAhRxLfOWKhvxjELkx,organic,okTXSMadDkjvntEHzIjp,LLfCasrxQzJIyuldcuWy,aXQzDWsJuGXeBXexNHjc,desktop,Windows,,,1366x768,Chrome,Russia,Zheleznodorozhny
+sample_0698,client_0698,2021-11-15,01:40:37,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x896,Safari,Russia,Moscow
+sample_0699,client_0699,2021-11-15,07:54:56,105,aXQzDWsJuGXeBXexNHjc,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,Chrome,Russia,Moscow
+sample_0700,client_0700,2021-11-15,12:35:08,1,vFcAhRxLfOWKhvxjELkx,organic,okTXSMadDkjvntEHzIjp,LLfCasrxQzJIyuldcuWy,aXQzDWsJuGXeBXexNHjc,desktop,Windows,,,1920x1080,Chrome,Russia,Moscow
+sample_0701,client_0701,2021-11-15,13:14:00,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x892,Chrome,Russia,Kazan
+sample_0702,client_0702,2021-11-15,18:43:34,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,fkhLOTqvIJxkHksTSIzX,desktop,Macintosh,,,1536x960,Chrome,Russia,Mytishchi
+sample_0703,client_0703,2021-11-15,19:52:58,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,IGUCNvHlhfHpROGclCit,desktop,Windows,,,1920x1080,Firefox,Russia,Ivanteyevka
+sample_0704,client_0704,2021-11-15,21:15:48,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,385x854,YaBrowser,Russia,Ufa
+sample_0705,client_0705,2021-11-16,09:46:55,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,IGUCNvHlhfHpROGclCit,mobile,Android,Huawei,,320x694,YaBrowser,Russia,Saint Petersburg
+sample_0706,client_0706,2021-11-16,13:07:25,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x896,Safari,Turkey,Istanbul
+sample_0707,client_0707,2021-11-16,14:04:26,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,320x568,Safari,Russia,Moscow
+sample_0708,client_0708,2021-11-16,17:53:48,1,BHcvLfOaCWvWTykYqHVe,cpc,,,UbQpozKfTgYxQovHjkQM,mobile,Android,Samsung,,412x846,Chrome,Russia,Moscow
+sample_0709,client_0709,2021-11-16,18:43:57,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,1920x1080,Chrome,Russia,Chelyabinsk
+sample_0710,client_0710,2021-11-17,12:52:20,3,aXQzDWsJuGXeBXexNHjc,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,360x800,Samsung Internet,Russia,Saint Petersburg
+sample_0711,client_0711,2021-11-17,15:55:33,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,360x640,Chrome,Russia,Saint Petersburg
+sample_0712,client_0712,2021-11-17,16:02:44,2,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,BmOOOIoWGHEfxEfoUezs,mobile,Android,Xiaomi,,360x760,Chrome,Russia,Moscow
+sample_0713,client_0713,2021-11-17,21:31:44,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x720,Chrome,Russia,Aksay
+sample_0714,client_0714,2021-11-17,22:23:53,1,kjsLglQLzykiRbcDiGcD,cpc,CdkIkBrvEVomSgvHzYvj,WvCMRUAbanZQkQfWaSEa,tzIeQUUHahhBuEkJqDVp,mobile,Android,Xiaomi,,360x720,Opera,Russia,Moscow
+sample_0715,client_0715,2021-11-18,08:04:33,3,BHcvLfOaCWvWTykYqHVe,cpc,,,nSReTmyFtbSjlPrTKoaX,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Saint Petersburg
+sample_0716,client_0716,2021-11-18,08:29:48,1,vFcAhRxLfOWKhvxjELkx,organic,okTXSMadDkjvntEHzIjp,LLfCasrxQzJIyuldcuWy,aXQzDWsJuGXeBXexNHjc,mobile,Android,Samsung,,412x892,Chrome,Russia,Moscow
+sample_0717,client_0717,2021-11-18,09:03:26,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,390x844,Safari,Russia,Moscow
+sample_0718,client_0718,2021-11-18,15:14:48,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x896,Safari,Russia,Samara
+sample_0719,client_0719,2021-11-18,19:49:04,2,QxAxdyPLuQMEcrdZWdWb,cpc,hyNLyXfbJfGYiUJTEZnz,,iDrLOaeBXQjJLmhvuWWP,mobile,iOS,Apple,,414x896,Safari (in-app),Russia,Khimki
+sample_0720,client_0720,2021-11-18,20:39:54,4,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,Chrome,Russia,Ufa
+sample_0721,client_0721,2021-11-18,21:13:13,1,QxAxdyPLuQMEcrdZWdWb,cpc,zmnpxOKDENholtspXiGy,,iDrLOaeBXQjJLmhvuWWP,mobile,iOS,Apple,,414x736,Safari (in-app),Russia,Moscow
+sample_0722,client_0722,2021-11-19,09:46:59,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,BmOOOIoWGHEfxEfoUezs,mobile,Android,Samsung,,800x360,Chrome,Russia,Moscow
+sample_0723,client_0723,2021-11-19,13:22:12,1,kjsLglQLzykiRbcDiGcD,cpc,bJJuEXRheRIxXEaYIXqM,,HKFjmDlYppkKqsWPogJt,mobile,Android,Samsung,,360x640,Chrome,Russia,Saint Petersburg
+sample_0724,client_0724,2021-11-19,17:15:31,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,1920x1080,Chrome,Russia,Moscow
+sample_0725,client_0725,2021-11-19,19:37:04,1,YlsczTIyBSwTLNtuDkCd,outlook,PTQlxxEuqjyfVHcNKQQW,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,tablet,iOS,Apple,,768x1024,Safari,Russia,Saint Petersburg
+sample_0726,client_0726,2021-11-19,23:36:34,1,YlsczTIyBSwTLNtuDkCd,outlook,PTQlxxEuqjyfVHcNKQQW,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Macintosh,,,768x1024,Safari,Russia,Saint Petersburg
+sample_0727,client_0727,2021-11-19,23:54:29,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x812,Safari,Russia,Moscow
+sample_0728,client_0728,2021-11-20,08:49:02,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,320x568,Safari,Russia,Surgut
+sample_0729,client_0729,2021-11-20,10:10:39,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x780,Chrome,Russia,Zhukovskiy
+sample_0730,client_0730,2021-11-20,11:28:11,1,ZpYIoDJMcFzVoPFsHGJL,smartbanner,jqlUOdZBNZYfInQVcZlS,SAVVWaMghGnnvPOqMOIt,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x846,Chrome,Russia,Moscow
+sample_0731,client_0731,2021-11-20,15:33:07,1,QxAxdyPLuQMEcrdZWdWb,cpc,hyNLyXfbJfGYiUJTEZnz,,iDrLOaeBXQjJLmhvuWWP,mobile,iOS,Apple,,390x844,Safari (in-app),Russia,Moscow
+sample_0732,client_0732,2021-11-20,17:03:34,1,kjsLglQLzykiRbcDiGcD,cpc,bJJuEXRheRIxXEaYIXqM,,KCcEkEaKEtUilBVMoCAi,desktop,Windows,,,1280x720,Chrome,Russia,Murmansk
+sample_0733,client_0733,2021-11-20,19:53:48,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x780,Chrome,Russia,Krasnodar
+sample_0734,client_0734,2021-11-20,20:23:09,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,385x854,Chrome,Russia,Moscow
+sample_0735,client_0735,2021-11-21,06:52:54,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,360x800,Chrome,Russia,Yekaterinburg
+sample_0736,client_0736,2021-11-21,07:19:50,1,kjsLglQLzykiRbcDiGcD,cpc,UjApcvnaHtkydRkrLYuv,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,2048x1152,Chrome,Russia,Saint Petersburg
+sample_0737,client_0737,2021-11-21,10:34:55,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x812,YaBrowser,Russia,Kirishi
+sample_0738,client_0738,2021-11-21,13:23:36,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,IGUCNvHlhfHpROGclCit,mobile,Android,Samsung,,360x800,Samsung Internet,Russia,Saint Petersburg
+sample_0739,client_0739,2021-11-21,19:15:51,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,390x844,Safari,Russia,(not set)
+sample_0740,client_0740,2021-11-22,11:13:29,2,nrKihqcWGIzDsOqljdAv,cpc,QdLfySaGXolfTBSNVfHn,SOkCdPxfUcZUzzOdgGES,puhZPIYqKXeFPaUviSjo,desktop,Macintosh,,,1920x1080,Safari,Russia,Nizhny Novgorod
+sample_0741,client_0741,2021-11-23,07:49:33,1,BHcvLfOaCWvWTykYqHVe,cpc,,,ZNhSIPchlbnKwZWcsKzz,mobile,iOS,Apple,,390x844,Safari,Russia,Moscow
+sample_0742,client_0742,2021-11-23,09:57:20,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,1366x768,YaBrowser,Russia,Moscow
+sample_0743,client_0743,2021-11-23,09:58:00,1,QxAxdyPLuQMEcrdZWdWb,cpc,FNCczGzZUTzZVolDcPyC,,iDrLOaeBXQjJLmhvuWWP,mobile,Android,Huawei,,360x780,Android Webview,Russia,Moscow
+sample_0744,client_0744,2021-11-23,13:53:56,5,kjsLglQLzykiRbcDiGcD,cpc,,,hAmNSZmQkKQKAjZEGlgb,mobile,Android,(not set),AuMdmADEIoPXiWpTsBEj,360x767,Chrome,Russia,Moscow
+sample_0745,client_0745,2021-11-23,16:56:01,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,360x640,Chrome,Russia,Moscow
+sample_0746,client_0746,2021-11-23,22:29:47,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Macintosh,,,1680x1050,Safari,Russia,Moscow
+sample_0747,client_0747,2021-11-23,23:37:20,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Meizu,,360x640,YaBrowser,Russia,Barnaul
+sample_0748,client_0748,2021-11-24,07:16:49,1,vFcAhRxLfOWKhvxjELkx,organic,okTXSMadDkjvntEHzIjp,LLfCasrxQzJIyuldcuWy,aXQzDWsJuGXeBXexNHjc,mobile,Android,Huawei,,320x694,Chrome,Russia,Moscow
+sample_0749,client_0749,2021-11-24,08:51:30,1,vFcAhRxLfOWKhvxjELkx,organic,okTXSMadDkjvntEHzIjp,LLfCasrxQzJIyuldcuWy,aXQzDWsJuGXeBXexNHjc,mobile,Android,Samsung,,412x892,Chrome,Russia,Saint Petersburg
+sample_0750,client_0750,2021-11-24,11:21:25,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x812,Safari,Russia,Moscow
+sample_0751,client_0751,2021-11-24,11:30:49,1,vFcAhRxLfOWKhvxjELkx,organic,okTXSMadDkjvntEHzIjp,LLfCasrxQzJIyuldcuWy,aXQzDWsJuGXeBXexNHjc,desktop,Windows,,,1600x900,Chrome,Russia,Moscow
+sample_0752,client_0752,2021-11-24,12:09:25,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Macintosh,,,1440x900,Chrome,Russia,Moscow
+sample_0753,client_0753,2021-11-24,13:40:04,5,kjsLglQLzykiRbcDiGcD,cpc,,,psjAUzFZVWWCuxgCrtmQ,mobile,iOS,Apple,,414x896,Safari,Russia,Klin
+sample_0754,client_0754,2021-11-24,14:46:26,3,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,1920x1080,Chrome,Russia,Voronezh
+sample_0755,client_0755,2021-11-24,17:02:31,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Grozny
+sample_0756,client_0756,2021-11-24,23:18:04,1,QxAxdyPLuQMEcrdZWdWb,cpc,zmnpxOKDENholtspXiGy,,iDrLOaeBXQjJLmhvuWWP,mobile,iOS,Apple,,414x896,Safari (in-app),Russia,Moscow
+sample_0757,client_0757,2021-11-25,09:23:36,3,vFcAhRxLfOWKhvxjELkx,organic,okTXSMadDkjvntEHzIjp,LLfCasrxQzJIyuldcuWy,aXQzDWsJuGXeBXexNHjc,mobile,Android,Samsung,,384x854,YaBrowser,Russia,Moscow
+sample_0758,client_0758,2021-11-25,15:20:01,1,kjsLglQLzykiRbcDiGcD,organic,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,UKNBOHebRIIsQRsjNKay,mobile,Android,(not set),AuMdmADEIoPXiWpTsBEj,408x816,Firefox,Russia,Moscow
+sample_0759,client_0759,2021-11-25,21:33:48,2,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,Chrome,Russia,Moscow
+sample_0760,client_0760,2021-11-26,08:48:04,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,jpZoxCaowxXvglZVUJyq,mobile,Android,Xiaomi,,360x640,Chrome,Russia,Moscow
+sample_0761,client_0761,2021-11-26,11:01:09,2,BHcvLfOaCWvWTykYqHVe,cpc,,,AqudXfUnmXWSDWVGYaXr,desktop,Windows,,,1920x1080,Edge,Russia,Saint Petersburg
+sample_0762,client_0762,2021-11-26,11:54:51,1,vFcAhRxLfOWKhvxjELkx,organic,okTXSMadDkjvntEHzIjp,LLfCasrxQzJIyuldcuWy,aXQzDWsJuGXeBXexNHjc,mobile,Android,Samsung,,412x846,Chrome,Russia,Balashikha
+sample_0763,client_0763,2021-11-26,12:43:11,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,LG,,360x640,Chrome,Russia,Yekaterinburg
+sample_0764,client_0764,2021-11-26,13:25:29,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x896,Safari,Russia,Moscow
+sample_0765,client_0765,2021-11-27,11:47:49,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,MBHgRPNeTcONuVFFXgmz,mobile,Android,Samsung,,412x892,Samsung Internet,Russia,Moscow
+sample_0766,client_0766,2021-11-27,12:11:47,2,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,Chrome,Russia,Saint Petersburg
+sample_0767,client_0767,2021-11-28,00:00:55,2,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Meizu,ciZAODXEPQGDKvuEabGr,360x720,Chrome,Russia,Vologda
+sample_0768,client_0768,2021-11-28,06:13:46,1,bByPQxmDaMXgpHeypKSM,referral,IKQsApKuPmZqqmhieEgf,dlwYatgsQMvLsNApVgcw,HwAaYWqVHOvKPlrcQMnj,desktop,Windows,,,1366x768,Chrome,Russia,Saint Petersburg
+sample_0769,client_0769,2021-11-28,10:12:08,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x736,Safari (in-app),Russia,Klin
+sample_0770,client_0770,2021-11-28,21:40:02,1,QxAxdyPLuQMEcrdZWdWb,cpc,emlBaVkgLVRqbEVOSSXt,,mIKayglJaKQZvgdtLfqT,mobile,Android,Xiaomi,,360x760,Android Webview,Russia,Moscow
+sample_0771,client_0771,2021-11-28,21:44:37,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Surgut
+sample_0772,client_0772,2021-11-28,22:01:11,2,aXQzDWsJuGXeBXexNHjc,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,1920x1080,YaBrowser,Russia,Syktyvkar
+sample_0773,client_0773,2021-11-29,10:06:10,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,390x844,Safari,Russia,Kirov
+sample_0774,client_0774,2021-11-29,11:57:28,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x892,Chrome,Russia,Saransk
+sample_0775,client_0775,2021-11-29,12:30:38,59,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,1280x720,Chrome,Russia,Voronezh
+sample_0776,client_0776,2021-11-29,20:23:34,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,DBHgBJHOdbPwsRDUbEgX,mobile,Android,Xiaomi,,800x360,Chrome,Russia,Moscow
+sample_0777,client_0777,2021-11-30,05:53:15,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,320x694,Chrome,Russia,Kazan
+sample_0778,client_0778,2021-11-30,06:54:32,1,BHcvLfOaCWvWTykYqHVe,cpc,,,ZNhSIPchlbnKwZWcsKzz,desktop,Windows,,,1920x1080,Chrome,Russia,Moscow
+sample_0779,client_0779,2021-11-30,09:23:03,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x896,Safari,Russia,Kostroma
+sample_0780,client_0780,2021-11-30,10:34:20,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x812,Safari,Russia,Nalchik
+sample_0781,client_0781,2021-11-30,13:00:40,2,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x869,Chrome,Russia,Ufa
+sample_0782,client_0782,2021-11-30,13:52:25,2,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,DBHgBJHOdbPwsRDUbEgX,mobile,Android,Samsung,,339x753,Samsung Internet,Russia,Moscow
+sample_0783,client_0783,2021-11-30,16:08:01,2,kjsLglQLzykiRbcDiGcD,cpc,RoDitORHdzGfGhNCyEMy,,RPdScaVSDDKvfbqPGRVe,mobile,Android,Realme,,360x800,Chrome,Russia,Moscow
+sample_0784,client_0784,2021-11-30,17:43:15,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x811,Opera,Russia,Moscow
+sample_0785,client_0785,2021-12-01,13:12:24,1,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,1920x1080,Chrome,Russia,Samara
+sample_0786,client_0786,2021-12-01,13:49:15,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,385x854,Chrome,Russia,Kazan
+sample_0787,client_0787,2021-12-01,16:37:45,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x720,Chrome,Russia,Krasnodar
+sample_0788,client_0788,2021-12-01,18:39:38,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,OPPO,,360x780,Chrome,Russia,(not set)
+sample_0789,client_0789,2021-12-01,19:30:07,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,YQXPpoLsxnykCWKhGEmI,mobile,Android,Samsung,,320x534,Chrome,Russia,Moscow
+sample_0790,client_0790,2021-12-02,10:12:51,1,vFcAhRxLfOWKhvxjELkx,organic,okTXSMadDkjvntEHzIjp,LLfCasrxQzJIyuldcuWy,aXQzDWsJuGXeBXexNHjc,desktop,Windows,,,1603x902,YaBrowser,Russia,Dmitrov
+sample_0791,client_0791,2021-12-02,17:21:43,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,390x844,Safari,Russia,Moscow
+sample_0792,client_0792,2021-12-02,18:28:05,2,vFcAhRxLfOWKhvxjELkx,organic,okTXSMadDkjvntEHzIjp,LLfCasrxQzJIyuldcuWy,aXQzDWsJuGXeBXexNHjc,mobile,Android,Xiaomi,,393x786,Chrome,Russia,Moscow
+sample_0793,client_0793,2021-12-02,22:51:44,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,424x918,Chrome,Russia,Saint Petersburg
+sample_0794,client_0794,2021-12-03,00:33:21,1,kjsLglQLzykiRbcDiGcD,cpc,RoDitORHdzGfGhNCyEMy,,RmEBuqrriAfAVsLQQmhk,mobile,iOS,Apple,,414x896,Safari,Russia,Moscow
+sample_0795,client_0795,2021-12-03,10:28:55,1,ZpYIoDJMcFzVoPFsHGJL,banner,TmThBvoCcwkCZZUWACYq,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,360x800,Chrome,Russia,Moscow
+sample_0796,client_0796,2021-12-03,13:53:34,2,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,fkhLOTqvIJxkHksTSIzX,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Moscow
+sample_0797,client_0797,2021-12-03,13:56:30,1,ZpYIoDJMcFzVoPFsHGJL,banner,TmThBvoCcwkCZZUWACYq,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Moscow
+sample_0798,client_0798,2021-12-03,14:41:04,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x812,Safari (in-app),Russia,Moscow
+sample_0799,client_0799,2021-12-03,15:26:19,1,vFcAhRxLfOWKhvxjELkx,organic,okTXSMadDkjvntEHzIjp,LLfCasrxQzJIyuldcuWy,aXQzDWsJuGXeBXexNHjc,desktop,Windows,,,1920x1080,YaBrowser,Russia,Dubna
+sample_0800,client_0800,2021-12-03,17:40:44,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x896,Safari,Russia,Moscow
+sample_0801,client_0801,2021-12-03,18:28:07,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,FaQCXVOEpNCoDMRFwHJs,mobile,Android,Huawei,,360x720,Chrome,Russia,Moscow
+sample_0802,client_0802,2021-12-03,19:08:34,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,360x800,Chrome,Russia,Grozny
+sample_0803,client_0803,2021-12-03,19:24:55,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,Chrome,Russia,Moscow
+sample_0804,client_0804,2021-12-03,22:20:28,82,QxAxdyPLuQMEcrdZWdWb,cpc,,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,2560x1440,Chrome,Russia,Moscow
+sample_0805,client_0805,2021-12-04,10:18:14,1,ZpYIoDJMcFzVoPFsHGJL,banner,TmThBvoCcwkCZZUWACYq,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Vivo,tWBQlsvNfHxRUjaPAfhd,360x772,Chrome,Russia,Ulan-Ude
+sample_0806,client_0806,2021-12-04,15:55:03,1,ZpYIoDJMcFzVoPFsHGJL,banner,TmThBvoCcwkCZZUWACYq,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x800,YaBrowser,Russia,Perm
+sample_0807,client_0807,2021-12-04,17:28:41,1,BHcvLfOaCWvWTykYqHVe,cpc,,,ITfrGJNwVsHBGJMAKoct,mobile,iOS,Apple,,375x812,Safari,Russia,Moscow
+sample_0808,client_0808,2021-12-04,22:38:24,2,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,RrhnkuoaqckNtJpAZDzH,mobile,Android,Huawei,,360x720,YaBrowser,Russia,Saint Petersburg
+sample_0809,client_0809,2021-12-05,10:33:33,1,ZpYIoDJMcFzVoPFsHGJL,banner,TmThBvoCcwkCZZUWACYq,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,tablet,Android,Samsung,,712x1138,Chrome,Russia,(not set)
+sample_0810,client_0810,2021-12-05,13:12:32,5,BHcvLfOaCWvWTykYqHVe,cpc,,,ITfrGJNwVsHBGJMAKoct,desktop,Windows,,,1920x1080,YaBrowser,Russia,Moscow
+sample_0811,client_0811,2021-12-05,15:44:06,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x760,Chrome,Russia,(not set)
+sample_0812,client_0812,2021-12-05,17:40:22,5,BHcvLfOaCWvWTykYqHVe,cpc,,,JbyYOOELEiGGRhJbXfaq,mobile,Android,Samsung,,360x800,Chrome,Russia,Saint Petersburg
+sample_0813,client_0813,2021-12-05,18:22:34,1,ZpYIoDJMcFzVoPFsHGJL,banner,TmThBvoCcwkCZZUWACYq,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,360x740,Chrome,Russia,Saint Petersburg
+sample_0814,client_0814,2021-12-05,18:42:01,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,pHqgLcdBQPSLcrTpLkdr,mobile,Android,Samsung,,412x892,Samsung Internet,Russia,Moscow
+sample_0815,client_0815,2021-12-05,19:04:16,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,FaQCXVOEpNCoDMRFwHJs,mobile,Android,Samsung,,320x676,Chrome,Russia,Moscow
+sample_0816,client_0816,2021-12-05,19:21:54,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x846,Chrome,Russia,Yoshkar-Ola
+sample_0817,client_0817,2021-12-05,19:29:46,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,360x800,Chrome,Armenia,Yerevan
+sample_0818,client_0818,2021-12-05,19:48:19,1,ZpYIoDJMcFzVoPFsHGJL,banner,TmThBvoCcwkCZZUWACYq,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,384x854,Chrome,Russia,Samara
+sample_0819,client_0819,2021-12-05,21:16:33,2,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x873,Chrome,Russia,Kaluga
+sample_0820,client_0820,2021-12-05,21:55:36,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,YQXPpoLsxnykCWKhGEmI,mobile,Android,Xiaomi,,360x800,Chrome,Russia,Moscow
+sample_0821,client_0821,2021-12-06,00:00:32,1,bByPQxmDaMXgpHeypKSM,referral,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,OnePlus,,412x732,Chrome,Russia,(not set)
+sample_0822,client_0822,2021-12-06,00:34:30,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,320x693,Safari,Russia,Cherkessk
+sample_0823,client_0823,2021-12-06,09:22:21,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,ISrKoXQCxqqYvAZICvjs,mobile,Android,Samsung,,385x854,Samsung Internet,Russia,Moscow
+sample_0824,client_0824,2021-12-06,11:51:18,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,320x694,Chrome,Israel,Tel Aviv-Yafo
+sample_0825,client_0825,2021-12-06,13:51:29,268,RxecHElWobBxIeAkqFXV,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,1366x768,Chrome,Russia,Voronezh
+sample_0826,client_0826,2021-12-06,16:01:32,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Macintosh,,,1920x1080,Safari,Russia,Moscow
+sample_0827,client_0827,2021-12-06,19:06:25,1,bByPQxmDaMXgpHeypKSM,referral,QdLfySaGXolfTBSNVfHn,rqvMZiqGRTZpxvRSUTzX,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,1920x1080,Chrome,Russia,Moscow
+sample_0828,client_0828,2021-12-07,00:07:36,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,pHqgLcdBQPSLcrTpLkdr,mobile,Android,BQ,,360x720,Chrome,Russia,Moscow
+sample_0829,client_0829,2021-12-07,02:13:02,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Realme,,360x800,Chrome,Russia,Vladivostok
+sample_0830,client_0830,2021-12-07,08:45:50,2,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x640,Chrome,Russia,Tyumen
+sample_0831,client_0831,2021-12-07,08:46:22,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Yaroslavl
+sample_0832,client_0832,2021-12-07,12:03:45,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x892,Chrome,Russia,Moscow
+sample_0833,client_0833,2021-12-07,14:07:42,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,Chrome,Russia,(not set)
+sample_0834,client_0834,2021-12-07,14:13:39,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,pHqgLcdBQPSLcrTpLkdr,mobile,Android,Samsung,,412x892,Chrome,Russia,Saint Petersburg
+sample_0835,client_0835,2021-12-07,14:26:41,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Tyumen
+sample_0836,client_0836,2021-12-07,18:03:51,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Linux,,,1920x1080,Chrome,Russia,Moscow
+sample_0837,client_0837,2021-12-07,21:24:20,2,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,pHqgLcdBQPSLcrTpLkdr,mobile,Android,(not set),AuMdmADEIoPXiWpTsBEj,360x720,Chrome,Russia,Moscow
+sample_0838,client_0838,2021-12-07,23:17:03,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,360x640,Chrome,Russia,Kaliningrad
+sample_0839,client_0839,2021-12-08,07:22:47,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,QVwnwuQeEBRKybYuwqrE,mobile,Android,Samsung,,320x534,Chrome,Russia,Moscow
+sample_0840,client_0840,2021-12-08,10:03:07,1,kjsLglQLzykiRbcDiGcD,cpc,UjApcvnaHtkydRkrLYuv,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Google,,393x851,Chrome,Russia,(not set)
+sample_0841,client_0841,2021-12-08,11:41:46,1,kjsLglQLzykiRbcDiGcD,cpc,WlbWUObZWvsimzdFdLYw,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,1920x1080,Chrome,Russia,Moscow
+sample_0842,client_0842,2021-12-08,12:52:12,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x736,Safari,Russia,Saint Petersburg
+sample_0843,client_0843,2021-12-08,17:32:24,1,ZpYIoDJMcFzVoPFsHGJL,banner,TmThBvoCcwkCZZUWACYq,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,390x844,Safari,Russia,Saint Petersburg
+sample_0844,client_0844,2021-12-08,17:56:36,2,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,320x568,Safari,Russia,Saint Petersburg
+sample_0845,client_0845,2021-12-08,19:00:08,3,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x873,Chrome,Russia,Moscow
+sample_0846,client_0846,2021-12-08,21:29:15,4,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,590x736,Chrome,Russia,Ufa
+sample_0847,client_0847,2021-12-09,05:49:34,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x780,Chrome,Russia,Artyom
+sample_0848,client_0848,2021-12-09,07:21:54,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,320x676,Chrome,Russia,Surgut
+sample_0849,client_0849,2021-12-09,08:57:16,1,ZpYIoDJMcFzVoPFsHGJL,banner,TmThBvoCcwkCZZUWACYq,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x892,Chrome,Russia,Moscow
+sample_0850,client_0850,2021-12-09,11:46:46,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x736,Safari,Russia,Pyatigorsk
+sample_0851,client_0851,2021-12-09,12:10:18,2,oZCzWSykfixnjMPDNjSU,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x896,Safari,Russia,Moscow
+sample_0852,client_0852,2021-12-09,14:04:35,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x786,Chrome,Russia,Sochi
+sample_0853,client_0853,2021-12-09,18:52:37,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,424x848,Chrome,Russia,Krasnodar
+sample_0854,client_0854,2021-12-09,21:00:02,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x812,Safari,Russia,Yekaterinburg
+sample_0855,client_0855,2021-12-09,23:49:36,1,bByPQxmDaMXgpHeypKSM,referral,QdLfySaGXolfTBSNVfHn,SOkCdPxfUcZUzzOdgGES,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x896,Safari,Russia,Moscow
+sample_0856,client_0856,2021-12-09,23:50:59,1,BHcvLfOaCWvWTykYqHVe,cpc,,,eKHUxnmdnfauMYTztCfy,mobile,Android,Huawei,,360x780,YaBrowser,Russia,Moscow
+sample_0857,client_0857,2021-12-10,01:07:48,1,kjsLglQLzykiRbcDiGcD,cpc,RoDitORHdzGfGhNCyEMy,,IYYfbpSgwcuMNWNXkFLg,mobile,iOS,Apple,,428x926,Safari,Russia,Moscow
+sample_0858,client_0858,2021-12-10,04:25:40,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,385x854,Chrome,Russia,(not set)
+sample_0859,client_0859,2021-12-10,05:24:42,3,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x873,Chrome,Russia,Krasnodar
+sample_0860,client_0860,2021-12-10,09:38:45,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,428x926,Safari,Russia,Moscow
+sample_0861,client_0861,2021-12-10,11:18:31,1,ZpYIoDJMcFzVoPFsHGJL,smartbanner,jqlUOdZBNZYfInQVcZlS,qhEmhjPXvwgEHdBikgEQ,puhZPIYqKXeFPaUviSjo,mobile,Android,(not set),AuMdmADEIoPXiWpTsBEj,408x875,Firefox,Germany,Frankfurt
+sample_0862,client_0862,2021-12-10,14:40:07,1,ZpYIoDJMcFzVoPFsHGJL,smartbanner,jqlUOdZBNZYfInQVcZlS,SAVVWaMghGnnvPOqMOIt,puhZPIYqKXeFPaUviSjo,mobile,Android,LG,,360x720,Chrome,Russia,Tula
+sample_0863,client_0863,2021-12-10,16:22:05,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,Chrome,Russia,Arzamas
+sample_0864,client_0864,2021-12-10,16:23:02,1,BHcvLfOaCWvWTykYqHVe,cpc,,,YXWqiDDFMTXMPIEHmCmi,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Krasnogorsk
+sample_0865,client_0865,2021-12-10,23:29:31,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,tablet,Android,Samsung,,800x1334,Chrome,Russia,Kazan
+sample_0866,client_0866,2021-12-11,01:09:13,1,ZpYIoDJMcFzVoPFsHGJL,banner,TmThBvoCcwkCZZUWACYq,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Moscow
+sample_0867,client_0867,2021-12-11,11:56:34,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Sony,,551x979,Chrome,Russia,Saint Petersburg
+sample_0868,client_0868,2021-12-11,11:56:51,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Naro-Fominsk
+sample_0869,client_0869,2021-12-11,15:18:44,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,pHqgLcdBQPSLcrTpLkdr,desktop,Linux,,,786x393,Chrome,Russia,Istra
+sample_0870,client_0870,2021-12-11,18:08:09,1,aXQzDWsJuGXeBXexNHjc,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,1920x1080,Firefox,Russia,Ramenskoye
+sample_0871,client_0871,2021-12-11,21:07:25,4,QxAxdyPLuQMEcrdZWdWb,cpc,,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,385x854,Chrome,Russia,Moscow
+sample_0872,client_0872,2021-12-12,02:04:55,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,320x694,Chrome,Russia,Saratov
+sample_0873,client_0873,2021-12-12,19:29:22,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,360x640,Chrome,Russia,Moscow
+sample_0874,client_0874,2021-12-12,19:51:48,2,aXQzDWsJuGXeBXexNHjc,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,2048x1280,YaBrowser,Russia,Moscow
+sample_0875,client_0875,2021-12-12,21:40:07,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x667,Safari,Russia,Moscow
+sample_0876,client_0876,2021-12-13,08:16:51,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x896,Safari (in-app),Russia,Moscow
+sample_0877,client_0877,2021-12-13,12:32:51,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,320x568,Safari,Russia,Moscow
+sample_0878,client_0878,2021-12-13,13:37:14,1,ZpYIoDJMcFzVoPFsHGJL,banner,TmThBvoCcwkCZZUWACYq,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Ufa
+sample_0879,client_0879,2021-12-13,14:14:52,9,BHcvLfOaCWvWTykYqHVe,cpc,,,lVHkqXlZapieOXCrCJWG,desktop,Windows,,,1920x1080,Chrome,Russia,Moscow
+sample_0880,client_0880,2021-12-13,15:25:16,1,vFcAhRxLfOWKhvxjELkx,organic,okTXSMadDkjvntEHzIjp,LLfCasrxQzJIyuldcuWy,aXQzDWsJuGXeBXexNHjc,mobile,Android,Huawei,,320x640,Chrome,Russia,Moscow
+sample_0881,client_0881,2021-12-13,17:07:22,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Rostov-on-Don
+sample_0882,client_0882,2021-12-14,01:13:17,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,pHqgLcdBQPSLcrTpLkdr,mobile,Android,Xiaomi,,360x760,Opera,Russia,Moscow
+sample_0883,client_0883,2021-12-14,02:29:09,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,pHqgLcdBQPSLcrTpLkdr,mobile,Android,Huawei,,780x360,Chrome,Russia,Moscow
+sample_0884,client_0884,2021-12-14,10:57:43,1,ZpYIoDJMcFzVoPFsHGJL,banner,TmThBvoCcwkCZZUWACYq,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x812,Safari,Russia,Moscow
+sample_0885,client_0885,2021-12-14,16:54:41,1,QxAxdyPLuQMEcrdZWdWb,cpa,mSVMBvlHFgftJaQAZEdp,,,mobile,Android,(not set),AuMdmADEIoPXiWpTsBEj,393x873,Android Webview,Russia,Moscow
+sample_0886,client_0886,2021-12-14,23:23:30,1,BHcvLfOaCWvWTykYqHVe,cpc,,,yanmcYQNpOUjhHarlENh,mobile,Android,Samsung,,412x892,Chrome,Russia,Saint Petersburg
+sample_0887,client_0887,2021-12-15,01:19:24,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,pHqgLcdBQPSLcrTpLkdr,mobile,Android,Huawei,,720x360,Chrome,Russia,Kolomna
+sample_0888,client_0888,2021-12-15,04:20:44,1,ZpYIoDJMcFzVoPFsHGJL,banner,TmThBvoCcwkCZZUWACYq,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Irkutsk
+sample_0889,client_0889,2021-12-15,12:39:33,1,gVRrcxiDQubJiljoTbGm,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,Android Webview,Russia,Moscow
+sample_0890,client_0890,2021-12-15,23:22:08,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,360x800,Chrome,Russia,Moscow
+sample_0891,client_0891,2021-12-16,09:25:08,1,BHcvLfOaCWvWTykYqHVe,cpc,,,MBnTojKdJSsqoLhEfmRA,desktop,Windows,,,1366x768,YaBrowser,Russia,Nizhny Novgorod
+sample_0892,client_0892,2021-12-16,13:59:57,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,320x676,Chrome,Russia,Makhachkala
+sample_0893,client_0893,2021-12-17,10:46:51,2,ZpYIoDJMcFzVoPFsHGJL,banner,zxoiLxhuSIFrCeTLQVWZ,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x720,Chrome,Russia,Moscow
+sample_0894,client_0894,2021-12-17,12:46:52,1,QxAxdyPLuQMEcrdZWdWb,cpc,,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x736,Safari (in-app),Russia,Moscow
+sample_0895,client_0895,2021-12-17,15:50:10,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,360x800,Android Webview,Russia,Saint Petersburg
+sample_0896,client_0896,2021-12-17,20:55:48,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,KCcrgoFqYxCpSjdRyJjZ,mobile,Android,Huawei,,360x720,YaBrowser,Russia,Moscow
+sample_0897,client_0897,2021-12-17,21:13:38,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,384x832,Chrome,Russia,Naberezhnye Chelny
+sample_0898,client_0898,2021-12-17,23:47:06,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,390x844,Safari (in-app),Russia,Moscow
+sample_0899,client_0899,2021-12-18,00:20:38,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Moscow
+sample_0900,client_0900,2021-12-18,11:10:23,14,BHcvLfOaCWvWTykYqHVe,cpc,,,JajANoFxoqXfKRNBUhzx,mobile,iOS,Apple,,390x844,Safari,Russia,Moscow
+sample_0901,client_0901,2021-12-18,11:37:59,2,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,RrhnkuoaqckNtJpAZDzH,mobile,Android,Samsung,,360x640,YaBrowser,Russia,Khimki
+sample_0902,client_0902,2021-12-18,12:01:05,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,WDnvfdpXPXTQDKYDONXx,mobile,Android,Xiaomi,,360x640,Chrome,Russia,Moscow
+sample_0903,client_0903,2021-12-18,16:37:54,1,QxAxdyPLuQMEcrdZWdWb,cpc,,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,424x918,Android Webview,Russia,Saint Petersburg
+sample_0904,client_0904,2021-12-18,18:28:31,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,Chrome,Russia,Moscow
+sample_0905,client_0905,2021-12-18,21:11:07,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,MWLEpQPyjGkjHseVyeyQ,mobile,iOS,Apple,,414x896,Safari,Russia,Moscow
+sample_0906,client_0906,2021-12-19,16:27:12,1,vFcAhRxLfOWKhvxjELkx,organic,okTXSMadDkjvntEHzIjp,LLfCasrxQzJIyuldcuWy,aXQzDWsJuGXeBXexNHjc,desktop,Windows,,,1600x900,YaBrowser,Russia,Saint Petersburg
+sample_0907,client_0907,2021-12-19,19:59:23,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,Chrome,Russia,Krasnodar
+sample_0908,client_0908,2021-12-19,20:14:57,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x732,Chrome,Russia,Surgut
+sample_0909,client_0909,2021-12-19,20:34:10,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,(not set),AuMdmADEIoPXiWpTsBEj,360x800,Chrome,Russia,Samara
+sample_0910,client_0910,2021-12-19,20:43:17,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x846,Chrome,Russia,Moscow
+sample_0911,client_0911,2021-12-19,20:50:06,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x892,Chrome,Russia,Yaroslavl
+sample_0912,client_0912,2021-12-20,03:13:24,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x896,Safari,Russia,Nizhny Novgorod
+sample_0913,client_0913,2021-12-20,07:28:54,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,Chrome,Russia,Samara
+sample_0914,client_0914,2021-12-20,21:31:06,1,ZpYIoDJMcFzVoPFsHGJL,banner,zxoiLxhuSIFrCeTLQVWZ,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x812,Safari,Russia,Moscow
+sample_0915,client_0915,2021-12-20,23:36:59,2,BHcvLfOaCWvWTykYqHVe,cpc,,,mpFygdnCzMsVlLWOpHBn,desktop,Macintosh,,,1440x900,Chrome,Russia,(not set)
+sample_0916,client_0916,2021-12-21,08:21:35,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,RrhnkuoaqckNtJpAZDzH,mobile,Android,Samsung,,412x915,Chrome,Russia,Moscow
+sample_0917,client_0917,2021-12-21,14:02:11,1,ZpYIoDJMcFzVoPFsHGJL,push,sbJRYgVfvcnqKJNDDYIr,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x812,Safari,Russia,Moscow
+sample_0918,client_0918,2021-12-21,14:21:12,1,ZpYIoDJMcFzVoPFsHGJL,push,sbJRYgVfvcnqKJNDDYIr,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,375x813,Chrome,Russia,Moscow
+sample_0919,client_0919,2021-12-21,14:39:06,1,ZpYIoDJMcFzVoPFsHGJL,push,UvuMsOSDBWQGOIbDbXfV,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Blackview,,360x720,Chrome,Russia,Saint Petersburg
+sample_0920,client_0920,2021-12-21,15:43:01,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x736,Safari (in-app),Russia,Moscow
+sample_0921,client_0921,2021-12-21,18:04:21,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x780,Chrome,Russia,Moscow
+sample_0922,client_0922,2021-12-21,19:06:52,1,BHcvLfOaCWvWTykYqHVe,cpc,,,avdxWEjUtZVXIiVFXClN,mobile,iOS,Apple,,428x926,YaBrowser,Russia,Moscow
+sample_0923,client_0923,2021-12-21,21:35:37,1,ZpYIoDJMcFzVoPFsHGJL,push,sbJRYgVfvcnqKJNDDYIr,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x812,Safari,Russia,Moscow
+sample_0924,client_0924,2021-12-21,22:28:58,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,ISrKoXQCxqqYvAZICvjs,mobile,Android,Xiaomi,,360x640,Chrome,Russia,Saint Petersburg
+sample_0925,client_0925,2021-12-22,09:15:29,1,ZpYIoDJMcFzVoPFsHGJL,push,sbJRYgVfvcnqKJNDDYIr,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x780,Chrome,Russia,Saint Petersburg
+sample_0926,client_0926,2021-12-22,11:38:33,2,ZpYIoDJMcFzVoPFsHGJL,push,sbJRYgVfvcnqKJNDDYIr,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,Chrome,Russia,Moscow
+sample_0927,client_0927,2021-12-22,12:37:10,1,QxAxdyPLuQMEcrdZWdWb,cpa,mSVMBvlHFgftJaQAZEdp,,,mobile,Android,Xiaomi,,360x800,Chrome,Russia,Ufa
+sample_0928,client_0928,2021-12-22,18:48:39,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x780,Chrome,Russia,Saint Petersburg
+sample_0929,client_0929,2021-12-22,19:10:22,3,kjsLglQLzykiRbcDiGcD,cpc,,,ucuwacMUeGnaCgSEEZdM,desktop,Windows,,,1600x900,Chrome,Russia,Moscow
+sample_0930,client_0930,2021-12-22,19:35:02,1,ZpYIoDJMcFzVoPFsHGJL,push,sbJRYgVfvcnqKJNDDYIr,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,(not set),AuMdmADEIoPXiWpTsBEj,360x720,Chrome,Russia,Saint Petersburg
+sample_0931,client_0931,2021-12-22,21:42:54,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x892,Chrome,Russia,Tula
+sample_0932,client_0932,2021-12-22,22:16:55,1,ZpYIoDJMcFzVoPFsHGJL,banner,zxoiLxhuSIFrCeTLQVWZ,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Realme,,360x800,Chrome,Russia,Ulan-Ude
+sample_0933,client_0933,2021-12-23,10:26:40,1,ZpYIoDJMcFzVoPFsHGJL,banner,zxoiLxhuSIFrCeTLQVWZ,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,Samsung Internet,Russia,Saint Petersburg
+sample_0934,client_0934,2021-12-23,10:42:28,1,vFcAhRxLfOWKhvxjELkx,organic,okTXSMadDkjvntEHzIjp,LLfCasrxQzJIyuldcuWy,aXQzDWsJuGXeBXexNHjc,desktop,Windows,,,1536x864,Chrome,Russia,Moscow
+sample_0935,client_0935,2021-12-23,11:11:13,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x780,Chrome,Russia,Pyatigorsk
+sample_0936,client_0936,2021-12-23,12:22:47,1,ZpYIoDJMcFzVoPFsHGJL,push,sbJRYgVfvcnqKJNDDYIr,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Tula
+sample_0937,client_0937,2021-12-23,19:20:01,1,QxAxdyPLuQMEcrdZWdWb,cpc,,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,tablet,Android,Google,,360x640,Chrome,Ireland,Dublin
+sample_0938,client_0938,2021-12-23,20:10:50,3,bByPQxmDaMXgpHeypKSM,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x780,Android Webview,Russia,Ivanovo
+sample_0939,client_0939,2021-12-24,07:10:37,1,IZEXUFLARCUMynmHNBGo,blogger_channel,foFTSdUvNqqkPzZvgiqt,DZYjhfIUfdqhfuTNUmjn,puhZPIYqKXeFPaUviSjo,desktop,Macintosh,,,1440x900,Chrome,Sri Lanka,Colombo
+sample_0940,client_0940,2021-12-24,13:17:04,10,YclHumxPxSxgzHfvCaeF,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,OnePlus,,385x833,YaBrowser,Russia,Moscow
+sample_0941,client_0941,2021-12-24,14:11:12,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x896,Safari,Russia,Moscow
+sample_0942,client_0942,2021-12-24,16:32:22,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x896,Safari,Russia,Saint Petersburg
+sample_0943,client_0943,2021-12-24,18:54:48,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x780,Chrome,Russia,Dubna
+sample_0944,client_0944,2021-12-24,20:20:22,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Vivo,,360x800,Chrome,Russia,Irkutsk
+sample_0945,client_0945,2021-12-25,00:29:56,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,Chrome,Russia,Moscow
+sample_0946,client_0946,2021-12-25,01:30:12,1,QxAxdyPLuQMEcrdZWdWb,cpc,,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x873,Android Webview,Russia,Moscow
+sample_0947,client_0947,2021-12-25,03:21:14,1,BHcvLfOaCWvWTykYqHVe,cpc,,,ITfrGJNwVsHBGJMAKoct,mobile,Android,Samsung,,412x915,Samsung Internet,Russia,Moscow
+sample_0948,client_0948,2021-12-25,08:21:58,1,ZpYIoDJMcFzVoPFsHGJL,banner,zxoiLxhuSIFrCeTLQVWZ,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x780,Chrome,Russia,Moscow
+sample_0949,client_0949,2021-12-25,14:21:34,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,pHqgLcdBQPSLcrTpLkdr,mobile,Android,Samsung,,385x854,Samsung Internet,Russia,Saint Petersburg
+sample_0950,client_0950,2021-12-25,18:22:39,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,360x800,Chrome,Russia,Rostov-on-Don
+sample_0951,client_0951,2021-12-26,07:42:14,2,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Novosibirsk
+sample_0952,client_0952,2021-12-26,08:49:58,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x846,Chrome,Russia,Krasnodar
+sample_0953,client_0953,2021-12-26,09:19:19,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Vivo,,393x876,Chrome,Russia,Pskov
+sample_0954,client_0954,2021-12-26,09:30:07,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,390x844,Safari,Russia,Samara
+sample_0955,client_0955,2021-12-26,13:53:30,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x667,Chrome,Russia,Moscow
+sample_0956,client_0956,2021-12-26,18:18:42,1,BHcvLfOaCWvWTykYqHVe,cpc,,,ITfrGJNwVsHBGJMAKoct,mobile,iOS,Apple,,390x844,Safari,Russia,Moscow
+sample_0957,client_0957,2021-12-26,19:43:03,2,dyicZQGoeASogoSafjEh,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,339x735,Chrome,Russia,Tula
+sample_0958,client_0958,2021-12-26,20:49:18,15,aXQzDWsJuGXeBXexNHjc,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,360x800,Samsung Internet,Russia,Saint Petersburg
+sample_0959,client_0959,2021-12-27,00:41:48,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x667,Safari,Russia,Kaliningrad
+sample_0960,client_0960,2021-12-27,04:58:59,1,BHcvLfOaCWvWTykYqHVe,cpc,,,psjAUzFZVWWCuxgCrtmQ,mobile,iOS,Apple,,428x926,Safari,Russia,Lobnya
+sample_0961,client_0961,2021-12-27,07:04:53,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Yekaterinburg
+sample_0962,client_0962,2021-12-27,10:24:49,1,bByPQxmDaMXgpHeypKSM,referral,QdLfySaGXolfTBSNVfHn,SOkCdPxfUcZUzzOdgGES,puhZPIYqKXeFPaUviSjo,desktop,Macintosh,,,1440x900,Chrome,Russia,Moscow
+sample_0963,client_0963,2021-12-27,11:34:58,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x780,Chrome,Russia,Saint Petersburg
+sample_0964,client_0964,2021-12-27,13:05:19,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Chelyabinsk
+sample_0965,client_0965,2021-12-27,13:28:49,1,kjsLglQLzykiRbcDiGcD,cpc,EcEOnwFpCaiUbrbFLICY,JNHcPlZPxEMWDnRiyoBf,wiaGHeLepWDNwXuBHvDB,desktop,Windows,,,1536x864,Chrome,Russia,Saint Petersburg
+sample_0966,client_0966,2021-12-27,19:24:26,2,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Pyatigorsk
+sample_0967,client_0967,2021-12-28,09:03:06,2,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Huawei,,360x780,Chrome,Russia,Moscow
+sample_0968,client_0968,2021-12-28,10:02:18,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x896,Safari,Russia,Yekaterinburg
+sample_0969,client_0969,2021-12-28,10:29:12,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,385x854,Chrome,Russia,Kazan
+sample_0970,client_0970,2021-12-28,12:11:28,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,320x568,Safari,Russia,Saint Petersburg
+sample_0971,client_0971,2021-12-28,19:49:47,1,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,1280x960,Chrome,South Korea,Busan
+sample_0972,client_0972,2021-12-28,20:06:41,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,TzXEvSoFiirteePaCzeY,mobile,Android,Xiaomi,,393x851,Chrome,Russia,Moscow
+sample_0973,client_0973,2021-12-28,22:13:46,1,ZpYIoDJMcFzVoPFsHGJL,banner,zxoiLxhuSIFrCeTLQVWZ,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,375x667,Safari,Russia,Kirov
+sample_0974,client_0974,2021-12-29,02:18:21,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x873,Chrome,Russia,Moscow
+sample_0975,client_0975,2021-12-29,11:08:08,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,360x800,Chrome,Russia,Krasnodar
+sample_0976,client_0976,2021-12-29,19:15:32,108,kjsLglQLzykiRbcDiGcD,cpc,,,KyobiyHqbFtWswycTXJo,mobile,Android,Motorola,,360x760,Chrome,Russia,Moscow
+sample_0977,client_0977,2021-12-30,01:02:34,2,fDLlAcSmythWSCVMvqvL,(none),LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,desktop,Windows,,,1920x1080,Opera,Russia,(not set)
+sample_0978,client_0978,2021-12-30,06:38:07,1,GpAkIXsclxDGyILfNlrR,cpm,XGYOaJEasWTwAKNdCGVX,ESUnXCsdWADovskBLvBO,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,412x915,Chrome,Russia,Moscow
+sample_0979,client_0979,2021-12-30,08:17:25,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,385x854,Chrome,Russia,Yekaterinburg
+sample_0980,client_0980,2021-12-30,08:40:21,1,eLzNJHzPelJpEyBwMrKo,cpm,FTjNLDyTrXaWYgZymFkV,AdeErYgVTbRcAWtHrMHq,pucKZkLDtpMDBTobJAJG,mobile,Android,Xiaomi,,360x800,Android Webview,Russia,Moscow
+sample_0981,client_0981,2021-12-30,13:24:46,3,kjsLglQLzykiRbcDiGcD,cpc,,,hAmNSZmQkKQKAjZEGlgb,desktop,Windows,,,1366x768,Chrome,Russia,Saint Petersburg
+sample_0982,client_0982,2021-12-30,13:51:01,4,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,385x854,Chrome,Russia,Yekaterinburg
+sample_0983,client_0983,2021-12-30,17:48:45,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,Android,Realme,,360x800,Chrome,Russia,Orenburg
+sample_0984,client_0984,2021-12-30,18:02:20,3,kjsLglQLzykiRbcDiGcD,organic,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,UKNBOHebRIIsQRsjNKay,mobile,iOS,Apple,,375x667,Safari,Russia,Moscow
+sample_0985,client_0985,2021-12-30,19:25:06,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Xiaomi,,393x873,Chrome,Russia,Chelyabinsk
+sample_0986,client_0986,2021-12-30,21:40:25,1,TxKUcPpthBDPieTGmVhx,cpc,FTjNLDyTrXaWYgZymFkV,LcGIUNPUAmXtQJaDfFBR,faqsogjxCvbseFqupueU,mobile,Android,Alcatel,,320x640,Chrome,Russia,Moscow
+sample_0987,client_0987,2021-12-31,02:52:31,1,fgymSoTvjKPEgaIJqsiH,cpm,FTjNLDyTrXaWYgZymFkV,yYdBRbPmBMUZHXwqGxNx,ObIWuFTMgFPUHNiFoOwb,desktop,Linux,,,1920x1080,Chrome,Russia,Moscow
+sample_0988,client_0988,2021-12-31,07:11:21,1,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,Samsung,,385x854,Chrome,Russia,Ulan-Ude
+sample_0989,client_0989,2021-12-31,11:19:36,1,fgymSoTvjKPEgaIJqsiH,cpm,FTjNLDyTrXaWYgZymFkV,yYdBRbPmBMUZHXwqGxNx,oKjXDUsycmahkgMhGdAR,desktop,Macintosh,,,1920x1200,Chrome,Russia,Moscow
+sample_0990,client_0990,2021-12-31,13:03:59,1,eLzNJHzPelJpEyBwMrKo,cpm,FTjNLDyTrXaWYgZymFkV,AdeErYgVTbRcAWtHrMHq,pucKZkLDtpMDBTobJAJG,mobile,Android,Tecno,,360x820,Android Webview,Russia,Saint Petersburg
+sample_0991,client_0991,2021-12-31,13:32:24,2,ZpYIoDJMcFzVoPFsHGJL,banner,LEoPHuyFvzoNfnzGgfcd,vCIpmpaGBnIQhyYNkXqp,puhZPIYqKXeFPaUviSjo,mobile,Android,(not set),AuMdmADEIoPXiWpTsBEj,320x570,Chrome,Russia,Irkutsk
+sample_0992,client_0992,2021-12-31,15:18:17,4,dyicZQGoeASogoSafjEh,referral,LTuZkdKfxRGVceoWkVyg,JNHcPlZPxEMWDnRiyoBf,puhZPIYqKXeFPaUviSjo,mobile,iOS,Apple,,414x736,Safari,Russia,Moscow
+sample_0993,client_0993,2021-12-31,15:27:27,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,qQToznZzQEwXqmrMVfCd,mobile,Android,Blackview,,360x780,Chrome,Russia,Zheleznodorozhny
+sample_0994,client_0994,2021-12-31,16:12:35,1,fgymSoTvjKPEgaIJqsiH,cpm,FTjNLDyTrXaWYgZymFkV,yYdBRbPmBMUZHXwqGxNx,qUcotcWimEOQiboVPcCx,desktop,Windows,,,1920x1080,Chrome,Russia,Moscow
+sample_0995,client_0995,2021-12-31,16:38:42,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,dGlVSdmIlgWDyOPjfwwy,mobile,Android,(not set),AuMdmADEIoPXiWpTsBEj,393x873,Chrome,Russia,Moscow
+sample_0996,client_0996,2021-12-31,16:38:51,1,MvfHsxITijuriZxsqZqt,cpm,FTjNLDyTrXaWYgZymFkV,xhoenQgDQsgfEPYNPwKO,dGlVSdmIlgWDyOPjfwwy,mobile,Android,Samsung,,360x800,Chrome,Russia,Moscow
+sample_0997,client_0997,2021-12-31,19:49:43,1,fgymSoTvjKPEgaIJqsiH,cpm,FTjNLDyTrXaWYgZymFkV,yYdBRbPmBMUZHXwqGxNx,ObIWuFTMgFPUHNiFoOwb,desktop,Linux,,,1680x1050,Chrome,Russia,Moscow
+sample_0998,client_0998,2021-12-31,22:07:40,1,fgymSoTvjKPEgaIJqsiH,cpm,FTjNLDyTrXaWYgZymFkV,yYdBRbPmBMUZHXwqGxNx,oKjXDUsycmahkgMhGdAR,desktop,Windows,,,1920x1080,Chrome,Russia,Moscow
+sample_0999,client_0999,2021-12-31,22:27:04,1,fgymSoTvjKPEgaIJqsiH,cpm,FTjNLDyTrXaWYgZymFkV,yYdBRbPmBMUZHXwqGxNx,jfLxUKobDdJlutbwyjaU,desktop,Linux,,,1920x1080,Chrome,Russia,Moscow
+sample_1000,client_1000,2021-12-31,22:52:26,1,fgymSoTvjKPEgaIJqsiH,cpm,FTjNLDyTrXaWYgZymFkV,yYdBRbPmBMUZHXwqGxNx,ObIWuFTMgFPUHNiFoOwb,mobile,iOS,Apple,,414x896,Safari,Russia,Saint Petersburg

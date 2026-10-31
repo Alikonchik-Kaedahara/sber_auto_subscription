@@ -34,7 +34,8 @@ def prepare(df):
     df['visit_weekday'] = pd.to_datetime(df['visit_date']).dt.day_of_week
 
     # the resolution comes as a string like '360x720', split it into width and height
-    res = df['device_screen_resolution'].astype(str).str.split('x')
+    # (an empty resolution becomes '0x0', it is treated as a wrong one below)
+    res = df['device_screen_resolution'].fillna('0x0').str.split('x')
     df['screen_width'] = pd.to_numeric(res.str[0], errors='coerce')
     df['screen_height'] = pd.to_numeric(res.str[1], errors='coerce')
     bad = ((df['screen_width'] < 100) | (df['screen_height'] < 100)

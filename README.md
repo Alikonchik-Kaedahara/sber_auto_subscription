@@ -1,51 +1,38 @@
-# SberAutoSubscription: predicting the target action
+# SberAutoSubscription: target action prediction
 
-Final project of the ML Engineer course. The model takes the attributes of a visit to the website (utm_*, device_*,
-geo_*, date, time and visit number) and predicts whether the user will do a target action: leave a request,
-ask for a call and so on. The answer is 1 if they will and 0 if they won't.
+Final project of the ML Engineer course. The model gets a visit to the site (utm_*, device_*, geo_*, date, time,
+visit number) and says if the user will do a target action (leave a request, ask for a call and so on): 1 or 0.
 
 ## Files
 
-- `01_EDA.ipynb` exploratory data analysis, it also builds `data/target.csv`
-- `02_model.ipynb` model comparison, parameter search, feature importance
-- `pipeline.py` trains the final model and saves it to `model/sber_auto_pipe.pkl`
-- `main.py` FastAPI service
-- `check_api.py` checks the service and the response time
-- `data_sample/ga_sessions_sample.csv` 1000 visits in the input format
-- `requirements.txt` libraries
+- `01_EDA.ipynb` - data cleaning and EDA, also makes `data/target.csv`
+- `02_model.ipynb` - models, parameters, feature importance
+- `pipeline.py` - trains the final model and saves it to `model/sber_auto_pipe.pkl`
+- `main.py` - FastAPI service
+- `check_api.py` - sends visits from the sample to the service and measures the time
+- `data_sample/ga_sessions_sample.csv` - 1000 visits to try the service
 
 ## Data
 
-Google Analytics data of the SberAutoSubscription (СберАвтоподписка) website from May to December 2021:
-1.86 million visits (`ga_sessions.csv`) and 15.7 million events inside them (`ga_hits.csv`, about 4 GB).
-The data was provided for an educational project, so the full dataset is not published here.
+Google Analytics data of the SberAutoSubscription (СберАвтоподписка) website, May to December 2021:
+`ga_sessions.csv` (1.86 million visits) and `ga_hits.csv` (15.7 million events, about 4 GB). It was given for an
+educational project, so the full data is not in the repo. `data_sample/` has 1000 random visits with the session and
+client ids replaced. To rerun the notebooks or `pipeline.py` put the full files into `data/`.
 
-`data_sample/` has 1000 random visits from `ga_sessions.csv` to show the input format and to try the service.
-The session and client IDs in it are replaced with made-up ones (`sample_0001`, `client_0001`).
+## Result
 
-The trained model is already in `model/`, so the full data is not needed to run the service. To rerun the
-notebooks or retrain the model, put `ga_sessions.csv` and `ga_hits.csv` into `data/`.
+ROC-AUC on the test set (clients that were not in train):
 
-## Results
-
-| Model | ROC-AUC on test |
+| model | ROC-AUC |
 |---|---|
-| Baseline: conversion by utm_source | 0.612 |
-| Logistic regression | 0.675 |
-| Gradient boosting (HistGradientBoostingClassifier) | 0.696 |
+| baseline (conversion by utm_source) | 0.619 |
+| logistic regression | 0.676 |
+| HistGradientBoosting | 0.689 |
 
-The model comparison is in `02_model.ipynb`. The test set there is 20% of clients who were not in the training
-data (I split by client_id, so visits of one person don't end up in both sets). In `pipeline.py` the model is
-trained on 80% of clients and gets ROC-AUC 0.702 on the held-out clients, then the final model is trained on all
-the data.
+The most important features are the utm tags (campaign, source, keyword, ad content), the city and the visit number.
+The service returns 1 if the probability is 0.06 or more.
 
-The ad campaign and traffic source (utm_campaign, utm_source, utm_keyword, utm_adcontent), the city and the visit
-number affect the prediction the most. The service returns 1 if the probability of a target action is 0.06 or
-higher: such visits convert almost 3 times more often than average.
-
-## Running the service
-
-Python 3.12 or newer is needed.
+## How to run
 
 ```bash
 python3 -m venv venv
@@ -54,16 +41,9 @@ pip install -r requirements.txt
 uvicorn main:app
 ```
 
-The service starts on http://127.0.0.1:8000, the docs and a form to try it are at http://127.0.0.1:8000/docs.
+Then http://127.0.0.1:8000/docs. Endpoints: `/status`, `/version`, `/predict` (one visit), `/predict_batch` (a list).
 
-Endpoints:
-
-- `GET /status` check that the service is running
-- `GET /version` model info (training date, ROC-AUC, threshold)
-- `POST /predict` one visit, the answer is 0 or 1
-- `POST /predict_batch` a list of visits, an answer for each
-
-Request example (the fields are the same as in ga_sessions, empty ones can be skipped):
+Example:
 
 ```bash
 curl -X POST http://127.0.0.1:8000/predict -H "Content-Type: application/json" -d '{
@@ -84,31 +64,6 @@ curl -X POST http://127.0.0.1:8000/predict -H "Content-Type: application/json" -
 }'
 ```
 
-Response:
+`python check_api.py` (with the service running) sends the 1000 sample visits one by one. For me it was about 17 ms per request.
 
-```json
-{"session_id": "sample_0001", "target": 0, "probability": 0.0395}
-```
-
-Speed check (the service has to be running, it uses the visits from `data_sample/`):
-
-```bash
-python check_api.py
-```
-
-My result: 1000 requests with one visit each, mean response time 18.4 ms, max 38 ms. A batch of 1000 visits in
-one request takes 33 ms. The 3 second limit is met with a big margin.
-
-The service doesn't keep any state, the model is loaded once at start. So it can run in several processes
-(`uvicorn main:app --workers 4`) or on several machines behind a load balancer. If there are many visits, it's
-better to send them in batches to `/predict_batch`.
-
-## Retraining the model
-
-```bash
-python pipeline.py
-```
-
-The script reads `data/ga_sessions.csv` and `data/target.csv`, checks the quality on held-out clients and trains
-the model on all the data. It takes less than a minute (40 seconds on my laptop). New visits come from different ad
-campaigns, so the model should be retrained regularly, for example once a month.
+To retrain: `python pipeline.py` (needs the full data, takes about a minute).
